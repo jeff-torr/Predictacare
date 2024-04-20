@@ -2,7 +2,6 @@ from UserInterface import UserInterface
 import sys
 
 
-<<<<<<< HEAD
 def main():
     isString = True
     while isString:
@@ -11,9 +10,6 @@ def main():
             isString = False
         else:
             print("Please enter your name.")
-=======
-if __name__ == '__main__':
->>>>>>> refs/remotes/origin/main
 
     isAge = True
     while isAge:
@@ -31,7 +27,7 @@ if __name__ == '__main__':
         else:
             print("Please enter your gender.")
     
-    isDescription = True:
+    isDescription = True
     while isDescription:
         description = input("Description of appointment:")
         if type(description) == str:
@@ -39,7 +35,6 @@ if __name__ == '__main__':
         else:
             print("Please enter your description.")
 
-<<<<<<< HEAD
     isYN = True
     while isYN:
         familiarity = input("Are they are new patient? Y/N")
@@ -49,11 +44,8 @@ if __name__ == '__main__':
             print("Please enter your description.")
 
     user = UserInterface(name, age, gender, description, familiarity)
-=======
-    user = UserInterface(name,age,gender,description, familiarity)
 
->>>>>>> refs/remotes/origin/main
-
-
-
-
+if __name__ == "__main__":
+  # only call main if we run this file directly
+  # don't call main when we import this file
+  main()
