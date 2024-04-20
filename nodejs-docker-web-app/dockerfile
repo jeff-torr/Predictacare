@@ -1,0 +1,17 @@
+FROM node:18-alpine 
+
+#Create a app directory
+WORKDIR /app
+
+#install app dependencies
+COPY package*.json ./
+
+#run npm install
+RUN npm install
+
+#Bundle app souce
+COPY . .
+
+EXPOSE 8080
+
+CMD [ "npm", "start" ]
