@@ -2,18 +2,50 @@ from UserInterface import UserInterface
 import sys
 
 
-if __name__ == '__main__':
+def main():
+    isString = True
+    while isString:
+        name = input("Patients name?")
+        if type(name) == str:
+            isString = False
+        else:
+            print("Please enter your name.")
 
-    name = input("Patients name?")
-    age = input("Patients age?")
-    gender = input("Patients gender?")
-    description = input("Description of appointment:")
-    familiarity = input("Are they are new patient? Y/N")
+    isAge = True
+    while isAge:
+        age = input("Patients age?")
+        if type(age) == int:
+            isAge = False
+        else:
+            print("Please enter your age.")
 
+    isGender = True
+    while isGender:
+        gender = input("Patients gender?")
+        if type(gender) == str:
+            isGender = False
+        else:
+            print("Please enter your gender.")
+    
+    isDescription = True
+    while isDescription:
+        description = input("Description of appointment:")
+        if type(description) == str:
+            isDescription = False
+        else:
+            print("Please enter your description.")
 
-    user = UserInterface(name,age,gender,description, familiarity)
+    isYN = True
+    while isYN:
+        familiarity = input("Are they are new patient? Y/N")
+        if familiarity == "y" or familiarity == "n" or familiarity == "Y" or familiarity == "N":
+            isDescription = False
+        else:
+            print("Please enter your description.")
 
+    user = UserInterface(name, age, gender, description, familiarity)
 
-
-
-
+if __name__ == "__main__":
+  # only call main if we run this file directly
+  # don't call main when we import this file
+  main()
