@@ -2,6 +2,7 @@ from UserInterface import UserInterface
 import sys
 
 
+<<<<<<< HEAD
 def main():
     isString = True
     while isString:
@@ -10,6 +11,9 @@ def main():
             isString = False
         else:
             print("Please enter your name.")
+=======
+if __name__ == '__main__':
+>>>>>>> refs/remotes/origin/main
 
     isAge = True
     while isAge:
@@ -35,6 +39,7 @@ def main():
         else:
             print("Please enter your description.")
 
+<<<<<<< HEAD
     isYN = True
     while isYN:
         familiarity = input("Are they are new patient? Y/N")
@@ -44,6 +49,10 @@ def main():
             print("Please enter your description.")
 
     user = UserInterface(name, age, gender, description, familiarity)
+=======
+    user = UserInterface(name,age,gender,description, familiarity)
+
+>>>>>>> refs/remotes/origin/main
 
 
 
