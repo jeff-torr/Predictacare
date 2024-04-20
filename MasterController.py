@@ -2,7 +2,7 @@ from UserInterface import UserInterface
 import sys
 
 
-def main():
+if __name__ == '__main__':
 
     name = input("Patients name?")
     age = input("Patients age?")
@@ -11,7 +11,7 @@ def main():
     familiarity = input("Are they are new patient? Y/N")
 
 
-    user = UserInterface(name,age,gender,description)
+    user = UserInterface(name,age,gender,description, familiarity)
 
 
 
