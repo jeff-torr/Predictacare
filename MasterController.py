@@ -43,7 +43,7 @@ def main():
     while isYN:
         familiarity = input("Are they are new patient? Y/N ")
         if familiarity == "y" or familiarity == "n" or familiarity == "Y" or familiarity == "N":
-            isDescription = False
+            isYN = False
         else:
             print("Please enter your description.")
             familiarity = input("Are they are new patient? Y/N ")
@@ -53,4 +53,5 @@ def main():
 if __name__ == "__main__":
   # only call main if we run this file directly
   # don't call main when we import this file
+
   main()
