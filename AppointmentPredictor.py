@@ -23,7 +23,7 @@ class AppointmentPredictor:
         model_name='PredictaCare-Model',
         image_uri='257758044811.dkr.ecr.us-east-2.amazonaws.com/sagemaker-xgboost:1.3-1',
         model_data_url='s3://predictacosttraining/path/to/model.tar.gz',
-        role_arn='arn:aws:iam::767398032002:role/service-role/AmazonSageMaker-ExecutionRole-20240420T142608'
+        role_arn=''
     )
 
     def deploy_model_to_endpoint(model_name, endpoint_config_name, endpoint_name):
