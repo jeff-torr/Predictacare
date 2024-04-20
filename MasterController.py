@@ -1,57 +1,46 @@
+from AppointmentPredictor import AppointmentPredictor
+from BuildModel import BuildModel
+from DeployModel import DeployModel
 from UserInterface import UserInterface
-import sys
-
 
 def main():
-    isString = True
-    while isString:
-        name = input("Patients name? ")
-        if type(name) == str:
-            isString = False
-        else:
-            print("Please enter your name.")
-            name = input("Patients name? ")
+    # Assuming all required variables are defined within the classes or passed correctly
+    builder = BuildModel()
+    builder.create_sagemaker_model(
+        model_name='PredictaCare-Model',
+        image_uri='257758044811.dkr.ecr.us-east-2.amazonaws.com/sagemaker-xgboost:1.3-1',
+        model_data_url='s3://predictacosttraining/output/PredictaCare/output/model.tar.gz',
+        role_arn='arn:aws:iam::767398032002:role/service-role/AmazonSageMaker-ExecutionRole-20240420T142608'
+    )
+    builder.deploy_model_to_endpoint(
+        model_name='PredictaCare-Model',
+        endpoint_config_name='PredictaCare-EndpointConfig',
+        endpoint_name='PredictaCare-Endpoint'
+    )
 
-    isAge = True
-    while isAge:
-        age = input("Patients age? ")
-        if type(age) == int:
-            isAge = False
-        else:
-            print("Please enter your age.")
-            age = input("Patients age? ")
+    # Assuming 'DeployModel' takes these arguments in its constructor
+    deployer = DeployModel('PredictaCare-Model', 'image_uri_placeholder', 'role_placeholder', 'model_data_placeholder')
 
-    isGender = True
-    while isGender:
-        gender = input("Patients gender? ")
-        if type(gender) == str:
-            isGender = False
-        else:
-            print("Please enter your gender.")
-            gender = input("Patients gender? ")
-    
-    isDescription = True
-    while isDescription:
-        description = input("Description of appointment: ")
-        if type(description) == str:
-            isDescription = False
-        else:
-            print("Please enter your description.")
-            description = input("Description of appointment: ")
+    # Helper function to simplify user input
+    def get_input(prompt, cast_type=str, condition=lambda x: True, error_message="Invalid input, please try again."):
+        while True:
+            user_input = input(prompt)
+            try:
+                value = cast_type(user_input)
+                if condition(value):
+                    return value
+                else:
+                    print(error_message)
+            except ValueError:
+                print(error_message)
 
-    isYN = True
-    while isYN:
-        familiarity = input("Are they are new patient? Y/N ")
-        if familiarity == "y" or familiarity == "n" or familiarity == "Y" or familiarity == "N":
-            isYN = False
-        else:
-            print("Please enter your description.")
-            familiarity = input("Are they are new patient? Y/N ")
+    name = get_input("Patient's name? ")
+    age = get_input("Patient's age? ", int)
+    gender = get_input("Patient's gender? ")
+    description = get_input("Description of appointment: ")
+    familiarity = get_input("Are they a new patient (Y/N)? ", str, lambda x: x.upper() in ['Y', 'N'])
 
-    user = UserInterface(name, age, gender, description, familiarity)
+    user = UserInterface(name, age, gender, description, familiarity == 'Y')
 
 if __name__ == "__main__":
-  # only call main if we run this file directly
-  # don't call main when we import this file
-
-  main()
+    main()
