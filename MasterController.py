@@ -10,6 +10,7 @@ def main():
             isString = False
         else:
             print("Please enter your name.")
+            name = input("Patients name?")
 
     isAge = True
     while isAge:
@@ -18,6 +19,7 @@ def main():
             isAge = False
         else:
             print("Please enter your age.")
+            age = input("Patients age?")
 
     isGender = True
     while isGender:
@@ -26,6 +28,7 @@ def main():
             isGender = False
         else:
             print("Please enter your gender.")
+            gender = input("Patients gender?")
     
     isDescription = True
     while isDescription:
@@ -34,6 +37,7 @@ def main():
             isDescription = False
         else:
             print("Please enter your description.")
+            description = input("Description of appointment:")
 
     isYN = True
     while isYN:
@@ -42,6 +46,7 @@ def main():
             isDescription = False
         else:
             print("Please enter your description.")
+            familiarity = input("Are they are new patient? Y/N")
 
     user = UserInterface(name, age, gender, description, familiarity)
 
