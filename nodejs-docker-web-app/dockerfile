@@ -1,20 +1,43 @@
+# FROM node:18-alpine 
+
+# #Create a app directory
+# WORKDIR /app
+
+# #install app dependencies
+# COPY package*.json ./
+
+# # Copy frontend directory
+# COPY frontend /app/frontend
+
+# #run npm install
+# RUN npm install
+
+# #Bundle app souce
+# COPY . .
+
+# EXPOSE 8080
+
+# CMD [ "npm", "start" ]
+
 FROM node:18-alpine 
 
-#Create a app directory
+# Create an app directory
 WORKDIR /app
 
-#install app dependencies
+# Copy package.json and package-lock.json
 COPY package*.json ./
 
-# Copy frontend directory
-COPY frontend /app/frontend
-
-#run npm install
+# Install app dependencies
 RUN npm install
 
-#Bundle app souce
+# Copy the frontend directory
+COPY frontend /app/frontend
+
+# Copy the rest of the files
 COPY . .
 
+# Expose port 8080
 EXPOSE 8080
 
+# Command to run the application
 CMD [ "npm", "start" ]
