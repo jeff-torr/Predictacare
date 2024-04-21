@@ -15,7 +15,6 @@ function getClassData() {
 }
 
 var subButton = document.getElementById('subButton');
-subButton.addEventListener('click', getClassData, false); 
 // submits form (calls above function) when button clicked
 
 class UserData100 {
