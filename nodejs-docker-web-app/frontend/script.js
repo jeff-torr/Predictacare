@@ -8,13 +8,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function getClassData() {
     var nameField = document.getElementById('nameField').value;
-    var ageField = document.gerElementByID('ageField').value;
-    var genderField = document.gerElementByID('genderField').value;
-    var desriptionField = document.gerElementByID('descriptionField').value;
-    var familiarityField = document.gerElementByID('familiarityField').value;
+    var ageField = document.gerElementById('ageField').value;
+    var genderField = document.gerElementById('genderField').value;
+    var desriptionField = document.gerElementById('descriptionField').value;
+    var familiarityField = document.gerElementById('familiarityField').value;
 }
 
 var subButton = document.getElementById('subButton');
+subButton.addEventListener('click', getClassData, false); 
 // submits form (calls above function) when button clicked
 
 class UserData100 {
