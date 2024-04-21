@@ -22,7 +22,7 @@ class UserData100 {
     constructor(name, age, gender, description, familiarity) {
       this.name = nameField;
       this.age = ageField;
-      this.gender = genderFIeld;
+      this.gender = genderField;
       this.description = descriptionField;
       this.familiarity = familiarityField;
     }
