@@ -92,10 +92,10 @@
     <hr>
     
     <div class='wrapper'>
-    <form id='locationForm'>
+    <form id='familiarityForm'>
     <div class='form-uname'>
-        <label id='locationLabel' for='locationField'>Has the patient visited his location before?</label>
-        <input id='locationField' type='text' maxlength='25'></input>
+        <label id='familiarityLabel' for='familiarityField'>Has the patient visited his location before?</label>
+        <input id='familiarityField' type='text' maxlength='25'></input>
     </div>
     </form>
     
@@ -109,3 +109,23 @@
     <div class='form-sub'>
         <button id='subButton' type='button'>Submit!</button>
     </div>
+
+
+
+    <head>
+        <script>
+          function myFunction() {
+            var nameField = document.getElementById('nameField').value;
+            <h1>"the name is: " + nameField</h1>
+            var ageField = document.gerElementByID('ageField').value;
+            <h1>"the age is: " + ageField</h1>
+            var genderField = document.gerElementByID('genderField').value;
+            <h1>"the gender is: " + genderField</h1>
+            var desriptionField = document.gerElementByID('descriptionField').value;
+            <h1>"the description is: " + descriptionField</h1>
+            var familiarityField = document.gerElementByID('familiarityField').value;
+            <h1>"the familiarityField is: " + familiarityField</h1>
+          }
+          subButton.addEventListener('click', myFunction, false); 
+        </script>
+      </head>
