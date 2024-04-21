@@ -8,10 +8,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function getClassData() {
     var nameField = document.getElementById('nameField').value;
-    var ageField = document.gerElementById('ageField').value;
-    var genderField = document.gerElementById('genderField').value;
-    var desriptionField = document.gerElementById('descriptionField').value;
-    var familiarityField = document.gerElementById('familiarityField').value;
+    var ageField = document.getElementById('ageField').value;
+    var genderField = document.getElementById('genderField').value;
+    var desriptionField = document.getElementById('descriptionField').value;
+    var familiarityField = document.getElementById('familiarityField').value;
 }
 
 var subButton = document.getElementById('subButton');
