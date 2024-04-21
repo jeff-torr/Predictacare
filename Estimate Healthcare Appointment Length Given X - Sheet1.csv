@@ -1,0 +1,594 @@
+Appointment Description,Total Time in Minutes
+Bloodwork and tests,12
+Experiencing severe headaches,18
+Pain in left foot when walking,20
+Persistent migraines with visual aura,35
+Post-operative check for heart valve replacement,22
+Difficulty breathing during exercise,25
+Insomnia and difficulty sleeping,18
+Feeling light-headed when rising quickly,21
+Accidental fall with a blow to the head,50
+Blurry vision occasionally,28
+Regular health check-up for an adult,22
+Consultation for seasonal allergies,16
+Stress and anxiety management consultation,35
+Vaccination for travel purposes,18
+Repair of minor skin lacerations,28
+Evaluation of ankle discomfort,23
+Medication review and adjustment for hypertension,17
+Bacterial ear infection management,13
+Nutritional guidance for better diet,30
+Lower back pain assessment and therapy,22
+Annual influenza vaccination,12
+Routine examination for blood pressure issues,18
+Removal of a plantar wart,12
+Knee discomfort when climbing stairs,24
+Diabetes management and glucose monitoring,17
+Tooth extraction for impacted wisdom tooth,25
+Sudden onset of a skin rash,18
+Lab results discussion and next steps,15
+Chronic fatigue consultation,32
+Abdominal cramps and pain evaluation,30
+Prescription review and adjustment,12
+Treatment for sinus congestion,17
+Review and plan for asthma management,23
+Evaluation for frequent dizziness,30
+Skin assessment for acne treatment,18
+Follow-up for depression treatment,35
+Performing an echocardiogram,45
+Assessment after a minor head injury,33
+Consultation for potential pregnancy,25
+Therapy for second-degree burns,30
+Examination of elbow pain,23
+Investigation of chronic neck pain,28
+Chest X-ray for persistent cough,25
+Discussion on memory issues and cognitive tests,35
+Pain management for a hallux valgus (bunion),23
+Physical therapy session for rotator cuff injury,35
+Treatment for intense and sudden headaches,25
+Session for anxiety coping strategies,33
+Diagnostic testing for hearing deterioration,30
+Skin biopsy follow-up,23
+Evaluation of a suspected broken ankle,28
+Routine cleaning and dental exam,35
+Screening for melanoma and other skin cancers,25
+Detailed examination of skin moles,20
+Evaluation for possible hernia,25
+Treatment for wrist tendonitis,21
+Thyroid function test and consultation,18
+Child's yearly health review,35
+Discussion on symptoms of menopause,25
+Hearing assessment and potential aid fitting,30
+Assessment for cataracts and treatment options,18
+Physical for sports activity clearance,25
+Assessment for an allergic skin reaction,23
+Gastroenterology consult for digestive issues,35
+Follow-up after knee replacement surgery,30
+Evaluation of persistent cough and cold,20
+Dietary session for nutritional deficiencies,35
+Post-surgical follow-up for observation,25
+Therapeutic session for immunotherapy,50
+Development of a migraine management plan,30
+Treatment for acute sinus infection,25
+Routine gynecological examination,35
+Stress test for cardiovascular health,45
+Arthritis symptom management and therapy,25
+Cardiology review for heart health,35
+Screening and discussion for child development,35
+Diagnosis and treatment plan for vertigo,30
+Liver function diagnostics,18
+Consultation for sleep apnea symptoms,35
+Assessment of flu-like symptoms,20
+Procedure for removing an ingrown toenail,25
+Consultation for laser eye surgery options,30
+Follow-up for bipolar disorder management,35
+Physical rehabilitation for orthopedic recovery,50
+Prostate health screening and PSA test,25
+Ultrasound to monitor pregnancy,35
+Assistance with quitting smoking,25
+Evaluation for TMJ disorders,23
+Procedure for treating varicose veins,35
+Glaucoma screening and eye pressure test,18
+Fertility assessment and treatment discussion,35
+Procedure for a lumbar puncture,50
+Preparation for gastrointestinal endoscopy,25
+Psychiatric evaluation for mental health issues,55
+Discussion on osteoporosis prevention and treatment,25
+Monitoring and management of chronic pancreatitis,35
+Tuberculosis screening and follow-up,20
+Visit to antenatal clinic for routine pregnancy check,25
+Consultation for symptoms of Lyme disease,30
+Chiropractic adjustment for spinal alignment,25
+Follow-up after breast cancer treatment,30
+Dental implant planning and consultation,35
+Management session for ADHD in adults,50
+Testing for drug allergies and reactions,35
+Bloodwork ,10
+I have a sore throat and fever ,10
+Foot hurts each time I take a step ,17
+Frequent headaches and migraines ,30
+Heart surgery follow up,15
+Can't breathe properly when running ,20
+Can't sleep ,12
+Gets dizzy when standing up ,19
+"Was sitting in a chair and fell over, hit head on floor ",47
+Vision is blurry ,23
+Routine physical examination ,20
+Seasonal allergy consultation ,15
+Consultation for stress and anxiety ,30
+Scheduled vaccination ,15
+Minor laceration repair ,25
+Possible sprained ankle ,20
+Follow up for medication adjustment ,15
+Ear infection ,10
+Consultation for dietary advice ,25
+Back pain consultation ,20
+Annual flu shot ,10
+Checkup for high blood pressure ,15
+Wart removal ,10
+Knee pain when bending ,20
+Follow up for diabetes management ,15
+Toothache ,20
+Sudden rash on skin ,15
+Review of lab results ,10
+Chronic fatigue syndrome discussion ,30
+Stomach pain ,25
+Prescription refill and consultation ,10
+Sinus congestion ,15
+Asthma review ,20
+Dizziness and loss of balance ,25
+Acne consultation ,15
+Depression follow up,30
+Echocardiogram ,40
+Head injury check ,30
+Pregnancy consultation ,20
+Burn treatment ,25
+Elbow pain evaluation ,20
+Neck stiffness and pain ,25
+Chest X ray,20
+Memory problems consultation ,30
+Bunion pain ,20
+Physical therapy for shoulder ,30
+Severe headache ,20
+Anxiety management session ,30
+Hearing loss investigation ,25
+Follow up for skin biopsy ,20
+Ankle fracture evaluation,25
+Routine dental cleaning,30
+Skin cancer screening,20
+Mole examination,15
+Hernia check,20
+Tendonitis in wrist,18
+Follow-up for thyroid treatment,15
+Pediatric annual checkup,30
+Menopause consultation,20
+Hearing test,25
+Cataract consultation,15
+Sports physical examination,20
+Allergic reaction assessment,20
+Gastroenterology consultation,30
+Knee replacement follow-up,25
+Cough and cold symptoms,15
+Nutrition counseling,30
+Post-operation checkup,20
+Immunotherapy session,45
+Migraine treatment plan,25
+Acute sinusitis,20
+Gynecological exam,30
+Stress ECG,40
+Arthritis management,20
+Cardiology consultation,30
+Child developmental screening,30
+Vertigo evaluation,25
+Liver function test,15
+Sleep apnea consultation,30
+Flu symptoms,15
+Ingrown toenail removal,20
+Laser eye surgery consultation,25
+Bipolar disorder follow-up,30
+Orthopedic rehabilitation,45
+Prostate exam,20
+Ultrasound for pregnancy,30
+Smoking cessation help,20
+TMJ disorder consultation,20
+Varicose veins treatment,30
+Glaucoma screening,15
+Fertility consultation,30
+Lumbar puncture procedure,45
+Endoscopy preparation,20
+Psychiatric evaluation,50
+Osteoporosis treatment discussion,20
+Pancreatitis monitoring,30
+Tuberculosis screening,15
+Antenatal clinic visit,20
+Lyme disease consultation,25
+Chiropractic adjustment,20
+Breast cancer follow-up,25
+Dental implant consultation,30
+ADHD management session,45
+Drug allergy testing,30
+Psoriasis treatment update,20
+Refractive surgery assessment,25
+Diabetic neuropathy check,20
+Geriatric health examination,30
+Hypertension review,15
+Scoliosis check in adolescents,20
+Routine check-up,20
+Sprained ankle assessment,20
+Flu vaccination,10
+Stress management counseling,30
+Child immunization,15
+Sinus infection,20
+Cholesterol level test,15
+Therapy session for depression,50
+Breast cancer screening,30
+Diabetes management review,25
+Eye exam for new glasses,20
+Blood pressure monitoring,10
+Asthma control test,25
+Pregnancy ultrasound,30
+Migraine management session,25
+Skin allergy test,20
+Sleep disorder consultation,30
+Routine dental cleaning,30
+Hernia examination,20
+Cataract follow-up,20
+Hearing aid fitting,30
+Sports injury rehab,45
+Kidney function test,20
+Liver health consultation,25
+Thyroid function test,15
+Post-surgical follow-up for knee surgery,25
+Acne treatment session,20
+Weight loss consultation,30
+Routine pediatric visit,20
+Osteoarthritis management,25
+Heart health checkup,30
+Menopause counseling,25
+Cognitive behavioral therapy,50
+Allergy follow-up,20
+Varicose vein treatment session,30
+Ingrown toenail treatment,20
+Dizziness diagnosis,25
+Bone density test,20
+Chronic back pain management,30
+COPD management,25
+Annual flu shot,10
+Vision test,15
+Mole removal,20
+Ulcerative colitis consultation,30
+Stress test for heart,40
+Endometriosis management,30
+Rheumatoid arthritis check,20
+Gastric problem evaluation,25
+Root canal treatment,45
+Smear test,15
+Knee pain consultation,20
+Upper respiratory infection treatment,20
+Epilepsy monitoring,30
+Bipolar disorder counseling,50
+Child developmental milestones check,30
+Gastroesophageal reflux disease management,20
+Herniated disc discussion,30
+Laser hair removal session,45
+Antenatal care,25
+Tinnitus evaluation,20
+Orthodontic consultation,30
+Pneumonia follow-up,25
+Skin cancer check-up,20
+Tuberculosis treatment discussion,25
+Anxiety disorder therapy,50
+"Routine check-up",15
+"Flu symptoms",20
+"Follow-up for ongoing treatment",30
+"First consultation for reported pain",25
+"Vaccination",10
+"Routine dental cleaning",30
+"Emergency visit for injury",45
+"Consultation for allergies",20
+"Annual physical exam",45
+"Prescription refill",15
+"Screening for hypertension",20
+"Nutritional consultation",30
+"Psychotherapy session",50
+"Orthopedic consultation for knee pain",30
+"Skin rash evaluation",20
+"Sleep disorder consultation",40
+"Eye examination for vision check",25
+"Ear infection treatment",15
+"Chronic disease management for diabetes",35
+"Pre-operative evaluation for surgery",40
+"Asthma follow-up",25
+"Consultation for gastrointestinal symptoms",30
+"Therapeutic massage session for back pain",45
+"Dermatological procedure for mole removal",20
+"Pediatric vaccination",10
+"Acute migraine treatment",30
+"Cardiac screening for heart disease",40
+"OB/GYN annual visit",30
+"Blood work and laboratory tests",15
+"Consultation for depression",50
+"Physical therapy session for ankle sprain",30
+"Pre-natal visit",20
+"Smoking cessation counseling",25
+"Men's health prostate screening",20
+"Women's health breast examination",30
+"Dental procedure for cavity filling",45
+"Emergency asthma attack treatment",40
+"Biopsy procedure for suspicious lesion",30
+"Follow-up for thyroid disorder management",20
+"Weight loss counseling",25
+"Routine pediatric check-up",15
+"Geriatric assessment for general health",40
+"Travel consultation for vaccinations",20
+"Telemedicine consultation for cold symptoms",15
+"Foot and ankle consultation for injury",30
+"Diabetic foot examination",25
+"Bone density scan for osteoporosis",20
+"Headache management session",30
+"Psychiatric evaluation for anxiety",45
+Routine check-up,15
+Flu symptoms,20
+Treatment follow-up,30
+Initial pain consultation,25
+Vaccination appointment,10
+Dental cleaning session,30
+Injury emergency visit,45
+Allergy consultation,20
+Physical exam yearly,45
+Medication refill visit,15
+Hypertension screening,20
+Dietary counseling session,30
+Therapeutic counseling,50
+Knee pain orthopedic visit,30
+Evaluation of skin rash,20
+Sleep issues consultation,40
+Vision examination,25
+Treatment for ear infection,15
+Diabetes management check,35
+Surgical pre-op assessment,40
+Asthma review appointment,25
+Stomach issues consultation,30
+Back pain massage therapy,45
+Mole removal dermatology,20
+Child immunization session,10
+Migraine acute care,30
+Heart disease screening,40
+OB/GYN yearly examination,30
+Lab work and testing,15
+Depression therapy session,50
+Physical therapy for sprain,30
+Regular prenatal check-up,20
+Quitting smoking counseling,25
+Prostate health screening,20
+Breast health examination,30
+Cavity filling dental work,45
+Asthma attack urgent care,40
+Suspicious lesion biopsy,30
+Thyroid management follow-up,20
+Obesity counseling session,25
+Pediatric routine examination,15
+Senior health assessment,40
+Pre-travel vaccination advice,20
+Telehealth for respiratory symptoms,15
+Foot injury consultation,30
+Diabetic foot care,25
+Osteoporosis scanning,20
+Headache treatment session,30
+Anxiety psychiatric evaluation,45
+Annual check-up,15
+Influenza treatment,20
+Continued treatment follow-up,30
+Pain management first visit,25
+Immunization clinic,10
+Routine oral hygiene,30
+Acute injury emergency,45
+Discussion on allergy management,20
+Comprehensive health review,45
+Prescription renewal consultation,15
+Blood pressure monitoring,20
+Nutrition advice,30
+Mental health therapy,50
+Consultation for joint pain,30
+Rash assessment,20
+Consultation for insomnia,40
+Eye health check-up,25
+Management of ear pain,15
+Chronic illness follow-up,35
+Pre-surgery evaluation,40
+Routine asthma check-up,25
+Gastro health review,30
+Pain relief massage,45
+Skin procedure,20
+Vaccine for children,10
+Severe headache treatment,30
+Cardiology assessment,40
+Annual women's health check,30
+Routine blood testing,15
+Mental health counseling,50
+Ankle rehabilitation,30
+Maternal health visit,20
+Anti-smoking session,25
+Men's wellness screening,20
+Women's wellness visit,30
+Teeth restoration,45
+Urgent breathing treatment,40
+Skin examination,30
+Thyroid health consultation,20
+Weight management discussion,25
+Child health check,15
+Elderly wellness evaluation,40
+Travel health consultation,20
+Cold symptom teleconsultation,15
+Ankle and foot specialist visit,30
+Care for diabetic extremities,25
+Bone health screening,20
+Management of chronic headaches,30
+Psychological assessment for stress,45
+Regular health check-up,15
+Symptoms of cold,15
+Follow-up for chronic condition,25
+Consultation for acute back pain,30
+Yearly flu shot,10
+Teeth cleaning and oral exam,30
+Urgent care for sports injury,40
+Allergy testing and advice,30
+Comprehensive yearly health review,50
+Quick prescription pick-up,10
+Blood pressure check,15
+Nutritional advice for weight management,25
+Counseling for stress and anxiety,45
+Consultation for joint stiffness,30
+Evaluation for dermatitis,20
+Consultation for snoring and sleep apnea,35
+Regular eye check for glasses,20
+Quick ear wax removal,15
+Management of type 2 diabetes,30
+Pre-surgery check-up,35
+Routine asthma treatment,20
+Acid reflux and indigestion consultation,25
+Massage for neck pain,30
+Skin cancer screening,25
+Childhood vaccine schedule,15
+Emergency treatment for severe migraine,35
+Cardiovascular fitness assessment,30
+Routine OB/GYN check-up,25
+Laboratory blood tests,20
+Session for coping with depression,50
+Post-injury physiotherapy,25
+Monthly prenatal visit,20
+Stop smoking support group,30
+Screening for testicular health,20
+Mammography screening,30
+Filling a dental cavity,20
+Care for acute asthma symptoms,25
+Biopsy for new skin growth,25
+Periodic thyroid check-up,15
+Lifestyle and diet consultation,40
+Pediatric annual physical,15
+Geriatric mobility assessment,35
+Vaccination advice for travel,20
+Online consultation for flu-like symptoms,15
+Specialist referral for foot pain,30
+Annual diabetic examination,20
+Bone density test for early osteoporosis,25
+Management of persistent headaches,25
+Psychiatric follow-up for bipolar disorder,40
+Regular family doctor visit,15
+Acute bronchitis treatment,20
+Routine cardiac check,30
+Evaluation for chronic pain,35
+Booster immunization,10
+Dental exam for gum health,25
+Care for minor cuts and bruises,20
+Strategies for managing seasonal allergies,20
+Full-body health scan,60
+Routine drug refill and health advice,15
+Stress ECG test,25
+Consultation for healthy eating,20
+Support session for emotional wellbeing,50
+Check for arthritis in knees,30
+Dermatology appointment for acne,20
+Nighttime sleep study,45
+Examination for retinal health,20
+Treatment for swimmer’s ear,15
+Chronic care plan for heart failure,40
+Pre-operative meeting for knee surgery,30
+Asthma control test,20
+Gut health and probiotics consultation,30
+Relaxation therapy for muscle spasms,30
+Preventative skin check for moles,20
+Pediatric flu treatment,15
+Intense migraine management,35
+Heart health comprehensive evaluation,40
+Regular visit for gynecological health,30
+Simple blood glucose testing,10
+Extended mental health therapy,55
+Therapy for sprained wrist,25
+Routine maternity check-up,20
+Nicotine replacement therapy,20
+Health screening for older men,25
+General health visit for women,35
+Procedure for tooth extraction,40
+Immediate care for respiratory distress,35
+Non-surgical treatment for skin tags,20
+Thyroid function test,15
+Nutrition planning for seniors,30
+Child wellness check-up,15
+Evaluation for elderly patient stability,30
+Advice on vaccinations for infants,20
+Brief virtual check for sinus issues,15
+Podiatry appointment for heel pain,30
+Care plan adjustment for diabetes,25
+Screening for spinal health,25
+Chronic migraine control strategies,35
+Evaluation for anxiety disorders,40
+Annual wellness visit,25
+Thyroid function follow-up,15
+Deep vein thrombosis assessment,30
+Muscle strain recovery session,20
+Abdominal pain evaluation,25
+Chronic bronchitis check,20
+Post-stroke rehabilitation session,45
+Carpal tunnel syndrome evaluation,20
+Child immunization update,15
+Routine cardiovascular screening,30
+Walk-in for sudden fever,15
+Dental check-up for tooth sensitivity,20
+Physical therapy for hip pain,30
+Recurrent ear infection follow-up,15
+Management of chronic kidney disease,25
+Mental health check for ongoing depression,30
+Emergency reaction to bee sting,20
+Routine mammogram,15
+Consultation for arthritis in hands,20
+Bi-weekly blood sugar level check,10
+Chiropractic session for lower back pain,25
+Pulmonary function test,20
+Regular acne follow-up,15
+Consultation for new dietary regimen,20
+Proactive lung health assessment,25
+Skin biopsy for suspicious mole,20
+Rehabilitation for ankle sprain,30
+Hypertension medication review,15
+Pediatric sore throat check,10
+Evaluation of new headaches,20
+Postpartum follow-up,30
+Ingrown toenail correction,20
+Urgent palpitations concern,25
+Routine prostate health screening,15
+Anxiety therapy session,30
+Childhood asthma management,20
+Sports injury assessment,25
+Routine blood panel,10
+Consultation for menopausal symptoms,20
+Follow-up for surgical wound healing,15
+Lung capacity test for COPD,20
+Spinal alignment check,25
+Ultrasound for abdominal discomfort,30
+Severe allergic reaction treatment,20
+Routine skin cancer follow-up,15
+Non-emergency migraine management,30
+Annual check for thyroid levels,15
+Bunion consultation,20
+Gastrointestinal discomfort review,25
+Laser treatment for skin rejuvenation,30
+Pediatric fever management,15
+Nutritional counseling for high cholesterol,25
+Eye examination for dry eyes,20
+Pregnancy check-up,15
+Speech therapy session for stuttering,30
+Breathing test for allergy sufferers,20
+Emergency dental repair,25
+Knee joint arthritis management,20
+Consultation for chronic fatigue,30
+Pneumonia recovery follow-up,20
+Sleep apnea device adjustment,15
+Evaluation for vertigo symptoms,20
+Chest pain assessment,30
+Foot arch pain due to flat feet,20
+Heart monitor fitting,15
+Prenatal ultrasound,30
+Routine geriatric assessment,25
+TMJ disorder evaluation,20
+Emergency consultation for chest tightness,25
