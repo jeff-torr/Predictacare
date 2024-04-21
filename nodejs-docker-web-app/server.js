@@ -10,11 +10,15 @@ app.get("/", (req, res) => {
 });
 
 // Serve static files from the 'frontend' directory
+
+
 // app.use(express.static(path.join(__dirname, 'frontend')));
 
 // app.get("/", (req, res) => {
 //     res.sendFile(path.join(__dirname, 'frontend', 'index.html')); // Send the HTML file
 // });
+
+
 
 app.listen(PORT, () => {
     console.log(`App running on ${PORT}`);
