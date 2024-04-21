@@ -1,23 +1,21 @@
 import numpy as np
 import pandas as pd
 import pickle
-from sklearn.model_selection import train_test_split
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Embedding, LSTM, Dense
-from tensorflow.keras.callbacks import EarlyStopping
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold, cross_val_score
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.pipeline import make_pipeline
 import nltk
-from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('stopwords')
 
-
 class DataHandler:
     def __init__(self, filename):
-        self.filename = "Estimate Healthcare Appointment Length Given X - Sheet1.csv"
+        self.filename = filename
         self.ensure_nltk_packages()
         self.lemmatizer = WordNetLemmatizer()
         self.stop_words = set(stopwords.words('english'))
@@ -33,97 +31,81 @@ class DataHandler:
     def load_data(self):
         data = pd.read_csv(self.filename)
         sentences = data.iloc[:, 0].values
-        times = data.iloc[:, 1].values
-        return sentences, times
+        durations = data.iloc[:, 1].values.astype(int)
+        return sentences, durations
 
-    def preprocess_data(self, sentences, tokenizer):
+    def preprocess_data(self, sentences):
         processed_sentences = []
         for sentence in sentences:
             words = nltk.word_tokenize(sentence)
-            lemmatized = [self.lemmatizer.lemmatize(word.lower()) for word in words if
-                          word.lower() not in self.stop_words]
+            lemmatized = [self.lemmatizer.lemmatize(word.lower()) for word in words if word.lower() not in self.stop_words]
             processed_sentences.append(' '.join(lemmatized))
-        tokenizer.fit_on_texts(processed_sentences)
-        sequences = tokenizer.texts_to_sequences(processed_sentences)
-        padded_sequences = pad_sequences(sequences, maxlen=100)
-        return padded_sequences
+        return processed_sentences
 
-
-class TokenizerManager:
-    @staticmethod
-    def save(tokenizer, path='tokenizer.pickle'):
-        with open(path, 'wb') as handle:
-            pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
-
-    @staticmethod
-    def load(path='tokenizer.pickle'):
-        with open(path, 'rb') as handle:
-            return pickle.load(handle)
-
-
-class ModelTrainer:
-    def __init__(self, vocab_size, embedding_dim=50, max_length=100):
-        self.model = Sequential([
-            Embedding(vocab_size, embedding_dim, input_length=max_length),
-            LSTM(64, return_sequences=True),
-            LSTM(32),
-            Dense(1, activation='linear')
-        ])
-        self.model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mean_absolute_error'])
+class NaiveBayesModel:
+    def __init__(self):
+        self.vectorizer = TfidfVectorizer(ngram_range=(1, 2))
+        self.model = MultinomialNB(alpha=0.1)
 
     def train(self, X_train, y_train):
-        early_stopping = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
-        self.model.fit(X_train, y_train, epochs=100, validation_split=0.2, callbacks=[early_stopping])
+        X_train_counts = self.vectorizer.fit_transform(X_train)
+        self.model.fit(X_train_counts, y_train)
+
+    def predict(self, descriptions):
+        counts = self.vectorizer.transform(descriptions)
+        return self.model.predict(counts)
 
     def evaluate(self, X_test, y_test):
-        loss, mae = self.model.evaluate(X_test, y_test)
-        print(f'Test Loss: {loss}, Test MAE: {mae}')
+        X_test_counts = self.vectorizer.transform(X_test)
+        predictions = self.model.predict(X_test_counts)
+        accuracy = accuracy_score(y_test, predictions)
+        print(f'Accuracy: {accuracy}')
+        print(classification_report(y_test, predictions))
 
-    def save_model(self, path='appointment_duration_model.h5'):
-        self.model.save(path)
-
-
-class Predictor:
-    def __init__(self, model_path, tokenizer_path):
-        self.model = tf.keras.models.load_model(model_path)
-        self.tokenizer = TokenizerManager.load(tokenizer_path)
-
-    def predict_duration(self, description):
-        sequence = self.tokenizer.texts_to_sequences([description])
-        padded_sequence = pad_sequences(sequence, maxlen=100)
-        predicted_duration = self.model.predict(padded_sequence)
-        return predicted_duration[0][0]
-
+    def save(self, path='naive_bayes_model.pickle'):
+        with open(path, 'wb') as handle:
+            pickle.dump((self.vectorizer, self.model), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 def main():
-    # Setup
     data_file = 'Estimate Healthcare Appointment Length Given X - Sheet1.csv'
-    model_file = 'appointment_duration_model.h5'
-    tokenizer_file = 'tokenizer.pickle'
 
     # Load and preprocess data
     data_handler = DataHandler(data_file)
-    sentences, times = data_handler.load_data()
-    tokenizer = Tokenizer()
-    padded_sequences = data_handler.preprocess_data(sentences, tokenizer)
-    X_train, X_test, y_train, y_test = train_test_split(padded_sequences, times, test_size=0.2, random_state=0)
+    sentences, durations = data_handler.load_data()
+    processed_sentences = data_handler.preprocess_data(sentences)
 
-    # Train the model
-    vocab_size = len(tokenizer.word_index) + 1
-    trainer = ModelTrainer(vocab_size)
-    trainer.train(X_train, y_train)
-    trainer.evaluate(X_test, y_test)
-    trainer.save_model(model_file)
+    # Splitting the dataset
+    X_train, X_test, y_train, y_test = train_test_split(processed_sentences, durations, test_size=0.2, random_state=50)
 
-    # Save tokenizer
-    TokenizerManager.save(tokenizer, tokenizer_file)
+    # Training Naive Bayes Model
+    nb_model = NaiveBayesModel()
+    nb_model.train(X_train, y_train)
+    nb_model.evaluate(X_test, y_test)
+    nb_model.save()
 
-    # Predicting with the model
-    predictor = Predictor(model_file, tokenizer_file)
-    test_description = "Neonatal examination for infant screening"
-    predicted_duration = predictor.predict_duration(test_description)
-    print(f"Predicted Duration: {predicted_duration:.2f} minutes")
+    # Example prediction
+    test_description = ["Routine dermatology visit for skin care"]
+    predicted_duration = nb_model.predict(test_description)
+    print(f"Predicted Duration: {predicted_duration[0]} minutes")
 
+    # Grid Search for parameter tuning
+    pipeline = make_pipeline(TfidfVectorizer(), MultinomialNB())
+    params = {
+        'tfidfvectorizer__ngram_range': [(1, 1), (1, 2)],  # unigrams and bigrams
+        'multinomialnb__alpha': [0.01, 0.1, 0.5, 1]  # different alpha values
+    }
+    grid_search = GridSearchCV(pipeline, params, cv=5, scoring='accuracy')
+    grid_search.fit(processed_sentences, durations)
+    print("Best parameters:", grid_search.best_params_)
+    print("Best cross-validation score: {:.2f}".format(grid_search.best_score_))
+
+    # Assuming 'X' and 'y' are your features and labels respectively
+    skf = StratifiedKFold(n_splits=5)
+    model = make_pipeline(TfidfVectorizer(sublinear_tf=True), MultinomialNB(alpha=0.01))
+
+    # Calculate different scores during cross-validation
+    scores = cross_val_score(model, X_train, y_train, cv=skf, scoring='f1_weighted')
+    print("Weighted F1-score: {:.2f}".format(np.mean(scores)))
 
 if __name__ == "__main__":
     main()
