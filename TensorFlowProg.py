@@ -8,11 +8,27 @@ from tensorflow.keras.layers import Embedding, LSTM, Dense
 from tensorflow.keras.callbacks import EarlyStopping
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+import nltk
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+nltk.download('wordnet')
+nltk.download('stopwords')
 
 
 class DataHandler:
     def __init__(self, filename):
         self.filename = "Estimate Healthcare Appointment Length Given X - Sheet1.csv"
+        self.ensure_nltk_packages()
+        self.lemmatizer = WordNetLemmatizer()
+        self.stop_words = set(stopwords.words('english'))
+
+    def ensure_nltk_packages(self):
+        nltk_packages = ['punkt', 'wordnet', 'stopwords']
+        for package in nltk_packages:
+            try:
+                nltk.data.find(f'tokenizers/punkt/{package}.pickle')
+            except LookupError:
+                nltk.download(package)
 
     def load_data(self):
         data = pd.read_csv(self.filename)
@@ -21,8 +37,14 @@ class DataHandler:
         return sentences, times
 
     def preprocess_data(self, sentences, tokenizer):
-        tokenizer.fit_on_texts(sentences)
-        sequences = tokenizer.texts_to_sequences(sentences)
+        processed_sentences = []
+        for sentence in sentences:
+            words = nltk.word_tokenize(sentence)
+            lemmatized = [self.lemmatizer.lemmatize(word.lower()) for word in words if
+                          word.lower() not in self.stop_words]
+            processed_sentences.append(' '.join(lemmatized))
+        tokenizer.fit_on_texts(processed_sentences)
+        sequences = tokenizer.texts_to_sequences(processed_sentences)
         padded_sequences = pad_sequences(sequences, maxlen=100)
         return padded_sequences
 
@@ -75,7 +97,7 @@ class Predictor:
 
 def main():
     # Setup
-    data_file = 'your_data.csv'
+    data_file = 'Estimate Healthcare Appointment Length Given X - Sheet1.csv'
     model_file = 'appointment_duration_model.h5'
     tokenizer_file = 'tokenizer.pickle'
 
@@ -84,7 +106,7 @@ def main():
     sentences, times = data_handler.load_data()
     tokenizer = Tokenizer()
     padded_sequences = data_handler.preprocess_data(sentences, tokenizer)
-    X_train, X_test, y_train, y_test = train_test_split(padded_sequences, times, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(padded_sequences, times, test_size=0.2, random_state=0)
 
     # Train the model
     vocab_size = len(tokenizer.word_index) + 1
@@ -98,7 +120,7 @@ def main():
 
     # Predicting with the model
     predictor = Predictor(model_file, tokenizer_file)
-    test_description = "patient has a headache and mild fever"
+    test_description = "Neonatal examination for infant screening"
     predicted_duration = predictor.predict_duration(test_description)
     print(f"Predicted Duration: {predicted_duration:.2f} minutes")
 
