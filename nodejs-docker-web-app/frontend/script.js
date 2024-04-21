@@ -8,10 +8,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function getClassData() {
     var nameField = document.getElementById('nameField').value;
-    var ageField = document.gerElementByID('ageField').value;
-    var genderField = document.gerElementByID('genderField').value;
-    var desriptionField = document.gerElementByID('descriptionField').value;
-    var familiarityField = document.gerElementByID('familiarityField').value;
+    var ageField = document.getElementById('ageField').value;
+    var genderField = document.getElementById('genderField').value;
+    var desriptionField = document.getElementById('descriptionField').value;
+    var familiarityField = document.getElementById('familiarityField').value;
 }
 
 var subButton = document.getElementById('subButton');
@@ -22,7 +22,7 @@ class UserData100 {
     constructor(name, age, gender, description, familiarity) {
       this.name = nameField;
       this.age = ageField;
-      this.gender = genderFIeld;
+      this.gender = genderField;
       this.description = descriptionField;
       this.familiarity = familiarityField;
     }

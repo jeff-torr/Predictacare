@@ -19,8 +19,6 @@
     <!-- Add your JavaScript links or scripts here -->
     <script src="script.js"></script>
 </body>
-</html>
-
 
 <!-- FORUM BEGINS BELOW!!! -->
 
@@ -34,7 +32,7 @@
     <!-- Add your CSS links or styles here -->
     <link rel="stylesheet" href=“styles.css">
 </head>
-</html>
+
 <div class='wrapper'>
     <form id='nameForm'>
     <div class='form-uname'>
@@ -92,15 +90,15 @@
     <hr>
     
     <div class='wrapper'>
-    <form id='locationForm'>
+    <form id='familiarityForm'>
     <div class='form-uname'>
-        <label id='locationLabel' for='locationField'>Has the patient visited his location before?</label>
-        <input id='locationField' type='text' maxlength='25'></input>
+        <label id='familiarityLabel' for='familiarityField'>Has the patient visited his location before?</label>
+        <input id='familiarityField' type='text' maxlength='25'></input>
     </div>
     </form>
     
     <div>
-        <p id='location'></p></div>
+        <p id='familiarity'></p></div>
     </div>
     
     <hr>
@@ -109,3 +107,28 @@
     <div class='form-sub'>
         <button id='subButton' type='button'>Submit!</button>
     </div>
+
+
+
+        <script>
+            function myFunction() {
+                var nameField = document.getElementById('nameField').value;
+                <h1>"the name is: " + nameField</h1>
+                console.log("the name is: " + nameField);
+                var ageField = document.getElementById('ageField').value;
+                <h1>"the age is: " + ageField</h1>
+                console.log("the age is: " + ageField);
+                var genderField = document.getElementById('genderField').value;
+                <h1>"the gender is: " + genderField</h1>
+                console.log("the gender is: " + genderField);
+                var desriptionField = document.getElementById('descriptionField').value;
+                <h1>"the description is: " + descriptionField</h1>
+                console.log("the description is: " + descriptionField);
+                var familiarityField = document.getElementById('familiarityField').value;
+                <h1>"the familiarityField is: " + familiarityField</h1>
+                console.log("the familiarityField is: " + familiarityField);
+            }
+            subButton.addEventListener('click', myFunction, false); 
+            myFunction()
+        </script>
+</html>
