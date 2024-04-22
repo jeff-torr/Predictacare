@@ -3,7 +3,6 @@ import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import accuracy_score
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -48,6 +47,7 @@ class DataHandler:
 
 class NaiveBayesModel:
     def __init__(self):
+        #instantiate model Class objs
         self.vectorizer = TfidfVectorizer(ngram_range=(1, 2))
         self.model = MultinomialNB(alpha=0.1)
 
@@ -68,7 +68,6 @@ class NaiveBayesModel:
         X_test_counts = self.vectorizer.transform(X_test)
         predictions = self.model.predict(X_test_counts)
         # accuracy = accuracy_score(y_test, predictions)
-
 
     def save(self, path='naive_bayes_model.pickle'):
         with open(path, 'wb') as handle:
