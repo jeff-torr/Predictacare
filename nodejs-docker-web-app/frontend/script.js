@@ -1,38 +1,58 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Script loaded successfully!');
+  console.log('Script loaded successfully!');
+  
+  var subButton = document.getElementById('subButton');
+  subButton.addEventListener('click', getClassData, false);
 });
 
-
-
-//depending on age, gender, etc. multiply the minute value that comes back from bakcend by a scalar before returning it to user
-
 function getClassData() {
-    var nameField = document.getElementById('nameField').value;
-    var ageField = document.getElementById('ageField').value;
-    var genderField = document.getElementById('genderField').value;
-    var desriptionField = document.getElementById('descriptionField').value;
-    var familiarityField = document.getElementById('familiarityField').value;
+  var nameField = document.getElementById('nameField').value;
+  var ageField = document.getElementById('ageField').value;
+  var genderField = document.getElementById('genderField').value;
+  var descriptionField = document.getElementById('descriptionField').value;
+  var familiarityField = document.getElementById('familiarityField').value;
+
+  const userData = {
+      nameField,
+      ageField,
+      genderField,
+      descriptionField,
+      familiarityField
+  };
+
+  fetch('/run-python', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(userData)
+  })
+  .then(response => response.json())
+  .then(data => {
+      let minutes = parseFloat(data.output);
+
+      // Determine age multiplier
+      let ageMultiplier = 1.0;
+      if (ageField < 30) {
+          ageMultiplier = 1.0;
+      } else if (ageField < 50) {
+          ageMultiplier = 1.1;
+      } else if (ageField < 70) {
+          ageMultiplier = 1.2;
+      } else {
+          ageMultiplier = 1.3;
+      }
+
+      // Determine gender multiplier
+      let genderMultiplier = genderField === 'female' ? 1.1 : 1.0;
+
+      // Determine familiarity multiplier
+      let familiarityMultiplier = familiarityField === 'yes' ? 0.9 : 1.1;
+
+      // Calculate adjusted minutes
+      let adjustedMinutes = minutes * ageMultiplier * genderMultiplier * familiarityMultiplier;
+
+      document.getElementById('result').innerText = `Adjusted Estimated Time: ${adjustedMinutes.toFixed(2)} minutes`;
+  })
+  .catch(error => console.error('Error:', error));
 }
-
-var subButton = document.getElementById('subButton');
-subButton.addEventListener('click', getClassData, false); 
-// submits form (calls above function) when button clicked
-
-class UserData100 {
-    constructor(name, age, gender, description, familiarity) {
-      this.name = nameField;
-      this.age = ageField;
-      this.gender = genderField;
-      this.description = descriptionField;
-      this.familiarity = familiarityField;
-    }
-  }
-
-//need to create a shell drop
-//run python SkLearn ... in the cmdline with the descriptionField as the argument
-//alter naive bayes to create file with number of minutes in it and get it back into frontend
-//delte file after read
-
-//free hosting with website on it? cloudrun is cheap. school might have free domains
-
-//free website

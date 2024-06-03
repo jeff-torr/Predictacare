@@ -4,131 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Predictacare</title>
-    <!-- Add your CSS links or styles here -->
-    <link rel="stylesheet" href=“styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-    <!-- Your content goes here -->
     <h1>We value your time and so should you.</h1>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-
-    art%2F15316843-schedule-doctor-appointment-2d-vector-isolated-linear-illustration-healthcare
-    -thin-line-flat-character-on-cartoon-background-colorful-editable-scene-for-mobile-website-pr
-    esentation&psig=AOvVaw2-i8J20YsYA1lkV-muuXl_&ust=1713747746422000&source=images&cd=vfe&opi=89
-    978449&ved=0CBIQjRxqFwoTCMDSwP-N0oUDFQAAAAAdAAAAABAE" alt = "Doctor">
-    <!-- Add your JavaScript links or scripts here -->
+    <form id="predictForm">
+        <label for="nameField">The patient's name:</label>
+        <input id="nameField" type="text" maxlength="25"><br>
+
+        <label for="ageField">The patient's age:</label>
+        <input id="ageField" type="number" maxlength="3"><br>
+
+        <label for="genderField">The patient's gender at birth:</label>
+        <select id="genderField">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br>
+
+        <label for="descriptionField">The patient's description of their ailment:</label>
+        <input id="descriptionField" type="text" maxlength="50"><br>
+
+        <label for="familiarityField">Has the patient visited this location before?</label>
+        <select id="familiarityField">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
+
+        <button type="button" id="subButton">Submit!</button>
+    </form>
+    <h2 id="result"></h2>
+
     <script src="script.js"></script>
 </body>
-
-<!-- FORUM BEGINS BELOW!!! -->
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Predictacare</title>
-    <!-- Add your CSS links or styles here -->
-    <link rel="stylesheet" href=“styles.css">
-</head>
-
-<div class='wrapper'>
-    <form id='nameForm'>
-    <div class='form-uname'>
-        <label id='nameLabel' for='nameField'>What is the patient's name:</label>
-        <input id='nameField' type='text' maxlength='25'></input>
-    </div>
-    </form>
-    
-    <div>
-        <p id='name'></p></div>
-    </div>
-    
-    <hr>
-    
-    <div class='wrapper'>
-    <form id='ageForm'>
-    <div class='form-uname'>
-        <label id='ageLabel' for='ageField'>What is the patient's age:</label>
-        <input id='ageField' type='text' maxlength='25'></input>
-    </div>
-    </form>
-    
-    <div>
-        <p id='age'></p></div>
-    </div>
-    
-    <hr>
-    
-    <div class='wrapper'>
-    <form id='genderForm'>
-    <div class='form-uname'>
-        <label id='genderLabel' for='genderField'>What is the patient's gender:</label>
-        <input id='genderField' type='text' maxlength='25'></input>
-    </div>
-    </form>
-    
-    <div>
-        <p id='gender'></p></div>
-    </div>
-    
-    <hr>
-    
-    <div class='wrapper'>
-    <form id='descriptionForm'>
-    <div class='form-uname'>
-        <label id='descriptionLabel' for='descriptionField'>What is the patient's description of their ailment:</label>
-        <input id='descriptionField' type='text' maxlength='50'></input>
-    </div>
-    </form>
-    
-    <div>
-        <p id='description'></p></div>
-    </div>
-    
-    <hr>
-    
-    <div class='wrapper'>
-    <form id='familiarityForm'>
-    <div class='form-uname'>
-        <label id='familiarityLabel' for='familiarityField'>Has the patient visited his location before?</label>
-        <input id='familiarityField' type='text' maxlength='25'></input>
-    </div>
-    </form>
-    
-    <div>
-        <p id='familiarity'></p></div>
-    </div>
-    
-    <hr>
-    
-    
-    <div class='form-sub'>
-        <button id='subButton' type='button'>Submit!</button>
-    </div>
-
-
-
-        <script>
-            function myFunction() {
-                var nameField = document.getElementById('nameField').value;
-                <h1>"the name is: " + nameField</h1>
-                console.log("the name is: " + nameField);
-                var ageField = document.getElementById('ageField').value;
-                <h1>"the age is: " + ageField</h1>
-                console.log("the age is: " + ageField);
-                var genderField = document.getElementById('genderField').value;
-                <h1>"the gender is: " + genderField</h1>
-                console.log("the gender is: " + genderField);
-                var desriptionField = document.getElementById('descriptionField').value;
-                <h1>"the description is: " + descriptionField</h1>
-                console.log("the description is: " + descriptionField);
-                var familiarityField = document.getElementById('familiarityField').value;
-                <h1>"the familiarityField is: " + familiarityField</h1>
-                console.log("the familiarityField is: " + familiarityField);
-            }
-            subButton.addEventListener('click', myFunction, false); 
-            myFunction()
-        </script>
 </html>
