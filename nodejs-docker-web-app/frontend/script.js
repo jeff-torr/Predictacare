@@ -27,3 +27,12 @@ class UserData100 {
       this.familiarity = familiarityField;
     }
   }
+
+//need to create a shell drop
+//run python SkLearn ... in the cmdline with the descriptionField as the argument
+//alter naive bayes to create file with number of minutes in it and get it back into frontend
+//delte file after read
+
+//free hosting with website on it? cloudrun is cheap. school might have free domains
+
+//free website
