@@ -9,6 +9,10 @@ COPY package*.json ./
 # Copy frontend directory
 COPY frontend /app/frontend
 
+COPY SkLearnNaiveBayes.py /app
+
+COPY EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv /app
+
 #run npm install
 RUN npm install
 
