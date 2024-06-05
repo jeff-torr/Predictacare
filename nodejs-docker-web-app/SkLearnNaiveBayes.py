@@ -1,5 +1,6 @@
 import pandas as pd
 import pickle
+import argparse
 import sys
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -64,13 +65,13 @@ class NaiveBayesModel:
             pickle.dump((self.vectorizer, self.model), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filename", help="The CSV file containing the training data")
+    parser.add_argument("user_input", help="The description for which to predict the appointment length")
+    args = parser.parse_args()
 
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("square", help="display a square of a given number")
-    # args = parser.parse_args()
-    # print(args.square**2)
-
-    data_file = 'EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv'
+    data_file = args.filename
+    user_input = args.user_input
 
     # Load and preprocess data
     data_handler = DataHandler(data_file)
@@ -86,11 +87,9 @@ def main():
     nb_model.evaluate(X_test, y_test)
     nb_model.save()
 
-    if len(sys.argv) > 1:
-        user_input = sys.argv[1]
-        processed_input = data_handler.preprocess_data([user_input])
-        predicted_duration = nb_model.predict(processed_input)
-        print(predicted_duration[0])
+    processed_input = data_handler.preprocess_data([user_input])
+    predicted_duration = nb_model.predict(processed_input)
+    print(predicted_duration[0])
 
 if __name__ == "__main__":
     main()

@@ -32,7 +32,8 @@ app.post('/run-python', (req, res) => {
     const descriptionField = req.body.descriptionField;
 
     // Execute the Python script with the provided description field
-    exec(`python3 ${pythonScriptPath} "${csvFilePath}" "${descriptionField}"`, (error, stdout, stderr) => {
+    const command = `python3 ${pythonScriptPath} ${csvFilePath} "${descriptionField}"`;
+    exec(command, (error, stdout, stderr) => {
         if (error) {
             console.error(`exec error: ${error}`);
             return res.status(500).send(error.message);
@@ -42,7 +43,9 @@ app.post('/run-python', (req, res) => {
         console.log(`stdout: ${stdout}`);
         
         // Log any errors from the Python script
-        console.error(`stderr: ${stderr}`);
+        if (stderr) {
+            console.error(`stderr: ${stderr}`);
+        }
         
         // Send the output back to the client
         res.send({ output: stdout.trim() });
