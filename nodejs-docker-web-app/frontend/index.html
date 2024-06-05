@@ -7,33 +7,35 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>We value your time and so should you.</h1>
-    <form id="predictForm">
-        <label for="nameField">The patient's name:</label>
-        <input id="nameField" type="text" maxlength="25"><br>
+    <div class="container">
+        <h1>Predictacare</h1>
+        <h2>We value your time and so should you.</h2>
+        <form id="predictForm">
+            <label for="nameField">The patient's name:</label>
+            <input id="nameField" type="text" maxlength="25"><br>
 
-        <label for="ageField">The patient's age:</label>
-        <input id="ageField" type="number" maxlength="3"><br>
+            <label for="ageField">The patient's age:</label>
+            <input id="ageField" type="number" maxlength="3"><br>
 
-        <label for="genderField">The patient's gender at birth:</label>
-        <select id="genderField">
-            <option value="male">Male</option>
-            <option value="female">Female</option>
-        </select><br>
+            <label for="genderField">The patient's gender at birth:</label>
+            <select id="genderField">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select><br>
 
-        <label for="descriptionField">The patient's description of their ailment:</label>
-        <input id="descriptionField" type="text" maxlength="50"><br>
+            <label for="descriptionField">The patient's description of their ailment:</label>
+            <input id="descriptionField" type="text" maxlength="50"><br>
 
-        <label for="familiarityField">Has the patient visited this location before?</label>
-        <select id="familiarityField">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
-        </select><br>
+            <label for="familiarityField">Has the patient visited this location before?</label>
+            <select id="familiarityField">
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select><br>
 
-        <button type="button" id="subButton">Submit!</button>
-    </form>
-    <h2 id="result"></h2>
-
+            <button type="button" id="subButton">Submit!</button>
+        </form>
+        <h3 id="result"></h3>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>

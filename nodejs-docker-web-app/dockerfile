@@ -1,47 +1,37 @@
-FROM node:18-alpine 
+FROM node:18-alpine
 
-#Create a app directory
+# Create an app directory
 WORKDIR /app
 
-#install app dependencies
+# Install app dependencies
 COPY package*.json ./
-
-# Copy frontend directory
-COPY frontend /app/frontend
-
-COPY SkLearnNaiveBayes.py /app
-
-COPY EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv /app
-
-#run npm install
 RUN npm install
 
-#Bundle app souce
+# Install Python 3, pip, and venv
+RUN apk add --no-cache python3 py3-pip python3-dev build-base
+
+# Create and activate a virtual environment
+RUN python3 -m venv /app/venv
+ENV PATH="/app/venv/bin:$PATH"
+
+# Copy the requirements.txt file and install Python dependencies
+COPY requirements.txt /app/requirements.txt
+RUN pip install --upgrade pip
+RUN pip install -r /app/requirements.txt
+
+# Download NLTK data packages
+RUN python3 -m nltk.downloader punkt wordnet stopwords
+
+# Copy frontend directory and other necessary files
+COPY frontend /app/frontend
+COPY SkLearnNaiveBayes.py /app
+COPY EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv /app
+
+# Copy the rest of the application code
 COPY . .
 
+# Expose the port the app runs on
 EXPOSE 8080
 
-CMD [ "npm", "start" ]
-
-# FROM node:18-alpine 
-
-# # Create an app directory
-# WORKDIR /app
-
-# # Copy package.json and package-lock.json
-# COPY package*.json ./
-
-# # Install app dependencies
-# RUN npm install
-
-# # Copy the frontend directory
-# COPY frontend /app/frontend
-
-# # Copy the rest of the files
-# COPY . .
-
-# # Expose port 8080
-# EXPOSE 8080
-
-# # Command to run the application
-# CMD [ "npm", "start" ]
+# Command to run the application
+CMD ["npm", "start"]
