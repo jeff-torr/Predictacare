@@ -64,6 +64,12 @@ class NaiveBayesModel:
             pickle.dump((self.vectorizer, self.model), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 def main():
+
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument("square", help="display a square of a given number")
+    # args = parser.parse_args()
+    # print(args.square**2)
+
     data_file = 'EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv'
 
     # Load and preprocess data

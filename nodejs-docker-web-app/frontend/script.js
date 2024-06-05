@@ -33,7 +33,9 @@ function getClassData() {
 
       // Determine age multiplier
       let ageMultiplier = 1.0;
-      if (ageField < 30) {
+      if (ageField < 13) {
+        ageMultiplier = 1.1
+      } else if (ageField < 30) {
           ageMultiplier = 1.0;
       } else if (ageField < 50) {
           ageMultiplier = 1.1;
