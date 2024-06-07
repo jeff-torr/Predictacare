@@ -24,8 +24,8 @@ RUN python3 -m nltk.downloader punkt wordnet stopwords
 
 # Copy frontend directory and other necessary files
 COPY frontend /app/frontend
-COPY SkLearnNaiveBayes.py /app
-COPY EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv /app
+COPY SkLearnLinearRegression.py /app
+COPY EstimateHealthcareAppointmentLengthGivenX-Sheet2.csv /app
 
 # Copy the rest of the application code
 COPY . .

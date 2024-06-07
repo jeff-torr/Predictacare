@@ -27,12 +27,15 @@ app.get('/favicon.ico', (req, res) => res.status(204));
 
 // Define the /run-python POST route
 app.post('/run-python', (req, res) => {
-    const pythonScriptPath = path.join(__dirname, 'SkLearnNaiveBayes.py');
-    const csvFilePath = path.join(__dirname, 'EstimateHealthcareAppointmentLengthGivenX-Sheet1.csv');
+    const pythonScriptPath = path.join(__dirname, 'SkLearnLinearRegression.py');
+    const csvFilePath = path.join(__dirname, 'EstimateHealthcareAppointmentLengthGivenX-Sheet2.csv');
     const descriptionField = req.body.descriptionField;
+    const ageField = req.body.ageField;
+    const genderField = req.body.genderField;
+    const familiarityField = req.body.familiarityField;
 
     // Execute the Python script with the provided description field
-    const command = `python3 ${pythonScriptPath} ${csvFilePath} "${descriptionField}"`;
+    const command = `python3 ${pythonScriptPath} ${csvFilePath} "${descriptionField}" ${ageField} "${genderField}" ${familiarityField}`;
     exec(command, (error, stdout, stderr) => {
         if (error) {
             console.error(`exec error: ${error}`);

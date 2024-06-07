@@ -1,0 +1,1049 @@
+Male,45,"Routine check-up for general health",30,Yes
+Female,30,"Consultation for persistent cough",20,No
+Male,60,"Follow-up for diabetes management",40,Yes
+Female,25,"Annual physical examination",25,No
+Male,50,"Evaluation of back pain",35,Yes
+Female,35,"Skin rash assessment",15,No
+Male,40,"Blood pressure check",20,Yes
+Female,55,"Cholesterol screening",30,Yes
+Male,65,"Heart disease follow-up",45,Yes
+Female,28,"Consultation for flu symptoms",20,No
+Male,33,"Routine health check",25,No
+Female,42,"Consultation for asthma",30,Yes
+Male,53,"Follow-up for surgery recovery",50,Yes
+Female,31,"Vaccination appointment",10,No
+Male,47,"Eye examination",20,No
+Female,39,"Consultation for migraines",25,Yes
+Male,29,"Sports physical",30,No
+Female,50,"Bone density scan",40,Yes
+Male,61,"Prostate cancer screening",35,Yes
+Female,26,"Routine blood work",15,No
+Male,44,"Follow-up for hypertension",30,Yes
+Female,38,"Prenatal check-up",45,Yes
+Male,55,"Skin cancer screening",25,Yes
+Female,33,"Thyroid function test",20,No
+Male,49,"Consultation for joint pain",30,Yes
+Female,41,"Mammogram",40,Yes
+Male,58,"Cardiology consultation",45,Yes
+Female,29,"Fertility consultation",30,No
+Male,36,"Allergy testing",20,No
+Female,46,"Pap smear test",15,Yes
+Male,34,"ENT consultation",25,No
+Female,52,"Hormone therapy consultation",30,Yes
+Male,43,"Lung function test",30,Yes
+Female,37,"Kidney function test",25,No
+Male,50,"Diabetes screening",20,Yes
+Female,60,"Routine geriatric check-up",35,Yes
+Male,32,"Vaccination update",15,No
+Female,45,"Nutrition consultation",25,Yes
+Male,48,"Consultation for sleep apnea",30,Yes
+Female,34,"General wellness check",20,No
+Male,39,"Blood sugar monitoring",25,Yes
+Female,53,"Consultation for menopause symptoms",30,Yes
+Male,56,"Follow-up for heart surgery",50,Yes
+Female,28,"Weight management consultation",20,No
+Male,35,"Physical therapy session",30,No
+Female,44,"Breast cancer screening",35,Yes
+Male,51,"Consultation for chronic fatigue",30,Yes
+Female,40,"Pediatric check-up for child",25,Yes
+Male,47,"Consultation for depression",20,No
+Female,38,"Skin check for moles",15,Yes
+Male,42,"Routine dental check-up",20,Yes
+Female,55,"Consultation for arthritis",30,Yes
+Male,60,"Follow-up for stroke recovery",45,Yes
+Female,31,"Vaccination for travel",10,No
+Male,37,"Consultation for high cholesterol",25,No
+Female,48,"Consultation for anxiety",30,Yes
+Male,29,"Consultation for stomach pain",20,No
+Female,36,"Postpartum check-up",30,Yes
+Male,54,"Hearing test",20,Yes
+Female,41,"Bone density follow-up",25,Yes
+Male,49,"Colonoscopy preparation",35,Yes
+Female,39,"Consultation for sinus infection",20,No
+Male,45,"Routine check-up",30,Yes
+Female,33,"Consultation for allergies",15,No
+Male,61,"Follow-up for prostate exam",30,Yes
+Female,28,"General health consultation",20,No
+Male,52,"Consultation for heartburn",25,Yes
+Female,43,"Thyroid function follow-up",30,Yes
+Male,38,"Blood pressure monitoring",20,Yes
+Female,50,"Follow-up for osteoporosis",35,Yes
+Male,40,"Consultation for headaches",25,No
+Female,29,"STD screening",20,No
+Male,47,"Consultation for back pain",30,Yes
+Female,34,"Breastfeeding consultation",15,Yes
+Male,55,"Diabetes management follow-up",30,Yes
+Female,41,"Consultation for eczema",20,Yes
+Male,36,"Routine physical exam",25,No
+Female,45,"Consultation for thyroid issues",30,Yes
+Male,58,"Heart health check-up",40,Yes
+Female,39,"Mental health evaluation",20,No
+Male,49,"Routine check-up",30,Yes
+Female,32,"Consultation for UTI",15,No
+Male,43,"Follow-up for knee surgery",35,Yes
+Female,54,"Consultation for weight loss",30,Yes
+Male,42,"Asthma check-up",25,Yes
+Female,27,"Routine gynecological exam",20,No
+Male,50,"Consultation for acid reflux",30,Yes
+Female,38,"Follow-up for bronchitis",25,Yes
+Male,46,"Consultation for high blood pressure",30,Yes
+Female,29,"Consultation for acne",15,No
+Male,61,"Routine geriatric check-up",35,Yes
+Female,45,"Consultation for chronic pain",30,Yes
+Male,53,"Follow-up for liver disease",40,Yes
+Female,30,"Consultation for PCOS",20,No
+Male,39,"Sleep study consultation",30,Yes
+Female,55,"Consultation for osteoarthritis",35,Yes
+Male,44,"Consultation for IBS",25,Yes
+Female,28,"Pre-employment physical",20,No
+Male,48,"Cholesterol monitoring",30,Yes
+Female,35,"Consultation for yeast infection",15,No
+Male,51,"Routine health check",30,Yes
+Female,42,"Consultation for fibromyalgia",25,Yes
+Male,37,"Follow-up for pneumonia",30,Yes
+Female,49,"Consultation for kidney stones",35,Yes
+Male,33,"Vaccination for flu season",10,No
+Female,53,"Hormone therapy follow-up",30,Yes
+Male,60,"Cardiology check-up",45,Yes
+Female,40,"Consultation for GERD",20,No
+Male,32,"Sports injury consultation",30,No
+Female,47,"Consultation for vitamin deficiency",20,Yes
+Male,35,"Mental health follow-up",25,No
+Female,41,"Consultation for menstrual issues",30,Yes
+Male,55,"Routine check-up",30,Yes
+Female,38,"Consultation for infertility",40,Yes
+Male,50,"Consultation for tinnitus",20,Yes
+Female,34,"Consultation for stomach ulcer",25,No
+Male,46,"Follow-up for hernia surgery",35,Yes
+Female,27,"Routine health check",20,No
+Male,52,"Consultation for migraines",30,Yes
+Female,43,"Consultation for anemia",25,Yes
+Male,40,"Blood sugar check",20,Yes
+Female,56,"Follow-up for breast cancer treatment",45,Yes
+Male,29,"Pre-surgical consultation",30,No
+Female,39,"Consultation for insomnia",20,Yes
+Male,47,"Consultation for psoriasis",25,Yes
+Female,31,"Routine wellness check",15,No
+Male,60,"Geriatric health follow-up",35,Yes
+Female,28,"Consultation for anxiety and depression",30,No
+Male,44,"Cholesterol check",25,Yes
+Female,50,"Follow-up for skin biopsy",20,Yes
+Male,35,"Consultation for epilepsy",30,Yes
+Female,33,"Consultation for allergies",20,No
+Male,49,"Routine dental check-up",15,Yes
+Female,52,"Consultation for menopause",30,Yes
+Male,37,"Follow-up for ACL surgery",35,Yes
+Female,29,"Consultation for chronic fatigue",20,No
+Male,46,"Heart health follow-up",40,Yes
+Female,54,"Consultation for high blood pressure",25,Yes
+Male,41,"Routine physical",30,Yes
+Female,38,"Consultation for irritable bowel syndrome",25,Yes
+Male,50,"Follow-up for prostate cancer treatment",45,Yes
+Female,31,"Consultation for depression",20,No
+Male,43,"Routine wellness check",30,Yes
+Female,45,"Consultation for joint pain",25,Yes
+Male,39,"Consultation for anxiety",20,Yes
+Female,47,"Consultation for sleep issues",30,Yes
+Male,56,"Cardiology follow-up",40,Yes
+Female,36,"Routine health check",25,No
+Male,33,"Consultation for asthma",30,Yes
+Female,29,"Consultation for chronic migraines",20,No
+Male,44,"Routine wellness check",30,Yes
+Female,40,"Consultation for eczema",15,Yes
+Male,48,"Blood pressure check",20,Yes
+Female,53,"Consultation for thyroid issues",25,Yes
+Male,41,"Follow-up for hip replacement",35,Yes
+Female,38,"Consultation for weight management",30,Yes
+Male,50,"Routine dental check-up",15,Yes
+Female,34,"Consultation for endometriosis",30,No
+Male,55,"Consultation for back pain",25,Yes
+Female,31,"Routine wellness check",20,No
+Male,46,"Consultation for high cholesterol",30,Yes
+Female,44,"Follow-up for knee surgery",35,Yes
+Male,39,"Consultation for respiratory issues",20,Yes
+Female,29,"Consultation for urinary issues",25,No
+Male,47,"Routine health check",30,Yes
+Female,50,"Consultation for osteoporosis",40,Yes
+Male,42,"Consultation for gout",20,Yes
+Female,36,"Consultation for fibroids",25,Yes
+Male,61,"Follow-up for colonoscopy",35,Yes
+Female,28,"Consultation for skin issues",20,No
+Male,33,"Routine dental check-up",15,Yes
+Female,49,"Consultation for hormonal imbalance",30,Yes
+Male,35,"Consultation for stomach issues",25,No
+Female,41,"Consultation for arthritis",20,Yes
+Male,44,"Heart health check",40,Yes
+Female,53,"Follow-up for thyroid surgery",30,Yes
+Male,37,"Consultation for weight loss",20,Yes
+Female,50,"Consultation for anxiety",25,Yes
+Male,56,"Follow-up for knee replacement",35,Yes
+Female,31,"Consultation for reproductive health",30,No
+Male,29,"Routine wellness check",20,No
+Female,45,"Consultation for headaches",25,Yes
+Male,48,"Consultation for skin rash",15,Yes
+Female,40,"Routine check-up",30,Yes
+Male,54,"Consultation for high blood sugar",25,Yes
+Female,34,"Consultation for vitamin deficiency",20,No
+Male,60,"Cardiology follow-up",45,Yes
+Female,38,"Consultation for infertility",30,Yes
+Male,35,"Routine health check",25,No
+Female,29,"Consultation for chronic fatigue",20,No
+Male,47,"Consultation for acid reflux",30,Yes
+Female,44,"Consultation for depression",20,Yes
+Male,50,"Routine wellness check",30,Yes
+Female,41,"Follow-up for breast surgery",35,Yes
+Male,39,"Consultation for chronic pain",20,Yes
+Female,36,"Consultation for thyroid issues",25,Yes
+Male,55,"Heart health check",40,Yes
+Female,31,"Routine dental check-up",15,No
+Male,43,"Consultation for back pain",30,Yes
+Female,28,"Consultation for anxiety",20,No
+Male,49,"Routine wellness check",25,Yes
+Female,52,"Consultation for high cholesterol",30,Yes
+Male,37,"Consultation for allergies",20,Yes
+Female,34,"Consultation for reproductive health",25,No
+Male,56,"Consultation for sleep apnea",30,Yes
+Female,33,"Follow-up for lung disease",35,Yes
+Male,42,"Consultation for digestive issues",20,Yes
+Female,30,"Routine wellness check",25,No
+Male,45,"Consultation for weight management",30,Yes
+Female,38,"Consultation for eczema",15,Yes
+Male,50,"Routine check-up",30,Yes
+Female,29,"Consultation for chronic pain",25,No
+Male,61,"Follow-up for prostate surgery",40,Yes
+Female,47,"Consultation for menstrual issues",20,Yes
+Male,33,"Routine health check",15,No
+Female,54,"Consultation for anxiety",30,Yes
+Male,40,"Consultation for high blood pressure",25,Yes
+Female,36,"Consultation for fertility issues",30,Yes
+Male,55,"Routine health check",30,Yes
+Female,41,"Consultation for sleep issues",20,Yes
+Male,46,"Consultation for diabetes",35,Yes
+Female,31,"Consultation for reproductive health",25,No
+Male,48,"Routine check-up",20,Yes
+Female,38,"Consultation for irritable bowel syndrome",30,Yes
+Male,44,"Consultation for heart issues",45,Yes
+Female,50,"Follow-up for lung disease",25,Yes
+Male,37,"Consultation for weight management",30,No
+Female,28,"Consultation for chronic fatigue",20,No
+Male,42,"Routine dental check-up",15,Yes
+Female,35,"Consultation for menstrual issues",20,Yes
+Male,49,"Consultation for back pain",25,Yes
+Female,31,"Consultation for anxiety",30,No
+Male,61,"Heart health follow-up",40,Yes
+Female,30,"Routine wellness check",25,No
+Male,36,"Consultation for skin rash",20,Yes
+Female,40,"Consultation for depression",30,Yes
+Male,55,"Routine health check",30,Yes
+Female,29,"Consultation for headaches",15,No
+Male,45,"Consultation for joint pain",25,Yes
+Female,53,"Follow-up for knee surgery",35,Yes
+Male,47,"Consultation for acid reflux",20,Yes
+Female,41,"Routine wellness check",30,Yes
+Male,44,"Consultation for chronic pain",25,Yes
+Female,34,"Consultation for reproductive health",30,No
+Male,50,"Consultation for high blood pressure",20,Yes
+Female,33,"Routine check-up",25,No
+Male,56,"Consultation for weight loss",30,Yes
+Female,38,"Consultation for thyroid issues",15,Yes
+Male,60,"Follow-up for heart surgery",45,Yes
+Female,27,"Consultation for anxiety",20,No
+Male,37,"Consultation for diabetes",25,No
+Female,40,"Routine wellness check",30,Yes
+Male,52,"Consultation for respiratory issues",35,Yes
+Female,45,"Consultation for joint pain",30,Yes
+Male,43,"Consultation for digestive issues",20,Yes
+Female,28,"Routine health check",25,No
+Male,49,"Consultation for sleep apnea",30,Yes
+Female,50,"Follow-up for knee surgery",35,Yes
+Male,34,"Consultation for skin rash",20,No
+Female,31,"Consultation for reproductive health",30,No
+Male,39,"Consultation for chronic pain",25,Yes
+Female,36,"Consultation for menstrual issues",15,Yes
+Male,55,"Routine health check",30,Yes
+Female,38,"Consultation for anxiety",20,Yes
+Male,44,"Consultation for high blood pressure",25,Yes
+Female,33,"Consultation for reproductive health",30,No
+Male,47,"Routine dental check-up",15,Yes
+Female,28,"Consultation for irritable bowel syndrome",20,No
+Male,61,"Consultation for back pain",25,Yes
+Female,54,"Consultation for weight management",30,Yes
+Male,35,"Routine health check",30,Yes
+Female,40,"Consultation for chronic fatigue",20,Yes
+Male,45,"Consultation for joint pain",25,Yes
+Female,31,"Routine wellness check",15,No
+Male,50,"Consultation for diabetes",30,Yes
+Female,30,"Consultation for menstrual issues",20,No
+Male,48,"Routine health check",25,Yes
+Female,36,"Consultation for sleep issues",30,Yes
+Male,56,"Consultation for back pain",35,Yes
+Female,27,"Consultation for chronic fatigue",20,No
+Male,42,"Consultation for high cholesterol",25,Yes
+Female,33,"Consultation for reproductive health",30,No
+Male,49,"Routine wellness check",30,Yes
+Female,38,"Consultation for depression",15,Yes
+Male,55,"Consultation for joint pain",25,Yes
+Female,41,"Follow-up for knee surgery",35,Yes
+Male,34,"Consultation for anxiety",20,No
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,40,"Routine wellness check",30,Yes
+Female,29,"Consultation for digestive issues",20,No
+Male,47,"Consultation for weight management",25,Yes
+Female,36,"Consultation for chronic fatigue",15,Yes
+Male,61,"Consultation for back pain",30,Yes
+Female,30,"Consultation for menstrual issues",20,No
+Male,43,"Routine health check",25,Yes
+Female,39,"Consultation for joint pain",30,Yes
+Male,56,"Consultation for sleep issues",35,Yes
+Female,31,"Consultation for reproductive health",20,No
+Male,49,"Routine health check",25,Yes
+Female,45,"Consultation for anxiety",30,Yes
+Male,50,"Follow-up for heart surgery",45,Yes
+Female,33,"Consultation for reproductive health",20,No
+Male,41,"Consultation for chronic fatigue",25,Yes
+Female,54,"Consultation for weight management",30,Yes
+Male,37,"Routine wellness check",20,Yes
+Female,28,"Consultation for menstrual issues",15,No
+Male,44,"Consultation for joint pain",25,Yes
+Female,35,"Consultation for anxiety",30,Yes
+Male,52,"Consultation for high blood pressure",20,Yes
+Female,36,"Routine health check",25,Yes
+Male,40,"Consultation for back pain",30,Yes
+Female,41,"Follow-up for knee surgery",35,Yes
+Male,50,"Consultation for joint pain",20,Yes
+Female,29,"Consultation for reproductive health",25,No
+Male,47,"Consultation for anxiety",30,Yes
+Female,33,"Routine wellness check",15,No
+Male,55,"Consultation for weight management",25,Yes
+Female,34,"Consultation for menstrual issues",20,Yes
+Male,38,"Consultation for high blood pressure",30,Yes
+Female,27,"Consultation for anxiety",15,No
+Male,49,"Consultation for chronic fatigue",25,Yes
+Female,42,"Routine health check",30,Yes
+Male,60,"Follow-up for heart surgery",45,Yes
+Female,28,"Consultation for weight management",20,No
+Male,36,"Consultation for joint pain",25,Yes
+Female,54,"Consultation for anxiety",30,Yes
+Male,30,"Routine wellness check",15,No
+Female,47,"Consultation for high blood pressure",20,Yes
+Male,44,"Consultation for reproductive health",25,Yes
+Female,35,"Routine health check",30,Yes
+Male,31,"Consultation for chronic fatigue",20,No
+Female,50,"Consultation for joint pain",25,Yes
+Male,39,"Consultation for anxiety",30,Yes
+Female,29,"Routine health check",15,No
+Male,56,"Consultation for high blood pressure",25,Yes
+Female,33,"Consultation for back pain",20,Yes
+Male,41,"Follow-up for heart surgery",45,Yes
+Female,38,"Consultation for reproductive health",25,Yes
+Male,53,"Routine wellness check",30,Yes
+Female,36,"Consultation for anxiety",20,Yes
+Male,45,"Consultation for joint pain",25,Yes
+Female,28,"Routine health check",15,No
+Male,50,"Consultation for high blood pressure",30,Yes
+Female,34,"Consultation for weight management",20,Yes
+Male,60,"Consultation for back pain",25,Yes
+Female,30,"Consultation for menstrual issues",20,No
+Male,47,"Routine wellness check",15,Yes
+Female,41,"Consultation for chronic fatigue",25,Yes
+Male,33,"Consultation for anxiety",30,Yes
+Female,29,"Consultation for reproductive health",20,No
+Male,54,"Consultation for high blood pressure",25,Yes
+Female,37,"Routine health check",30,Yes
+Male,44,"Follow-up for heart surgery",45,Yes
+Female,31,"Consultation for weight management",20,No
+Male,49,"Consultation for joint pain",25,Yes
+Female,35,"Consultation for anxiety",30,Yes
+Male,39,"Routine wellness check",15,Yes
+Female,28,"Consultation for menstrual issues",20,No
+Male,50,"Consultation for chronic fatigue",25,Yes
+Female,42,"Consultation for high blood pressure",30,Yes
+Male,30,"Routine health check",15,No
+Female,55,"Consultation for back pain",25,Yes
+Male,47,"Consultation for reproductive health",20,Yes
+Female,34,"Routine health check",30,Yes
+Male,41,"Consultation for anxiety",20,Yes
+Female,29,"Consultation for weight management",25,No
+Male,38,"Consultation for high blood pressure",30,Yes
+Female,33,"Follow-up for heart surgery",15,Yes
+Male,36,"Consultation for joint pain",25,Yes
+Female,60,"Consultation for chronic fatigue",20,No
+Male,50,"Routine wellness check",15,Yes
+Female,28,"Consultation for menstrual issues",20,No
+Male,39,"Consultation for anxiety",25,Yes
+Female,53,"Consultation for reproductive health",30,Yes
+Male,42,"Routine health check",15,No
+Female,45,"Consultation for weight management",25,Yes
+Male,47,"Consultation for high blood pressure",30,Yes
+Female,31,"Consultation for back pain",20,No
+Male,54,"Routine health check",15,Yes
+Female,35,"Consultation for anxiety",25,Yes
+Male,37,"Consultation for reproductive health",30,Yes
+Female,50,"Consultation for high blood pressure",20,Yes
+Male,33,"Routine health check",15,No
+Female,41,"Consultation for chronic fatigue",25,Yes
+Male,44,"Consultation for weight management",30,Yes
+Female,39,"Consultation for anxiety",20,Yes
+Male,60,"Routine wellness check",15,Yes
+Female,34,"Consultation for high blood pressure",25,Yes
+Male,45,"Consultation for back pain",30,Yes
+Female,28,"Routine health check",20,No
+Male,47,"Consultation for chronic fatigue",25,Yes
+Female,31,"Consultation for reproductive health",30,Yes
+Male,55,"Consultation for weight management",20,Yes
+Female,38,"Consultation for anxiety",15,Yes
+Male,50,"Routine health check",25,Yes
+Female,29,"Consultation for high blood pressure",30,No
+Male,36,"Consultation for chronic fatigue",20,Yes
+Female,44,"Routine health check",15,Yes
+Male,60,"Consultation for reproductive health",25,Yes
+Female,33,"Consultation for weight management",30,Yes
+Male,41,"Consultation for anxiety",20,Yes
+Female,28,"Consultation for chronic fatigue",25,No
+Male,49,"Routine health check",15,Yes
+Female,55,"Consultation for high blood pressure",30,Yes
+Male,39,"Consultation for back pain",20,Yes
+Female,34,"Consultation for weight management",25,Yes
+Male,47,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",15,No
+Male,45,"Consultation for reproductive health",20,Yes
+Female,36,"Consultation for chronic fatigue",25,Yes
+Male,50,"Consultation for high blood pressure",30,Yes
+Female,40,"Consultation for anxiety",20,Yes
+Male,37,"Routine health check",15,Yes
+Female,33,"Consultation for weight management",25,Yes
+Male,44,"Consultation for back pain",30,Yes
+Female,28,"Consultation for reproductive health",20,No
+Male,41,"Consultation for anxiety",25,Yes
+Female,29,"Routine health check",30,No
+Male,36,"Consultation for chronic fatigue",20,Yes
+Female,55,"Consultation for weight management",15,Yes
+Male,50,"Routine health check",25,Yes
+Female,38,"Consultation for high blood pressure",30,Yes
+Male,45,"Consultation for anxiety",20,Yes
+Female,31,"Consultation for reproductive health",25,No
+Male,39,"Routine health check",15,Yes
+Female,53,"Consultation for chronic fatigue",30,Yes
+Male,34,"Consultation for weight management",20,Yes
+Female,42,"Consultation for anxiety",25,Yes
+Male,47,"Routine health check",30,Yes
+Female,30,"Consultation for reproductive health",20,No
+Male,36,"Consultation for chronic fatigue",15,Yes
+Female,41,"Consultation for weight management",25,Yes
+Male,50,"Consultation for high blood pressure",30,Yes
+Female,28,"Routine health check",20,No
+Male,44,"Consultation for anxiety",25,Yes
+Female,55,"Consultation for reproductive health",30,Yes
+Male,37,"Consultation for chronic fatigue",20,Yes
+Female,33,"Routine health check",15,Yes
+Male,60,"Consultation for weight management",25,Yes
+Female,34,"Consultation for anxiety",30,Yes
+Male,50,"Consultation for high blood pressure",20,Yes
+Female,30,"Consultation for reproductive health",15,No
+Male,41,"Routine health check",25,Yes
+Female,29,"Consultation for chronic fatigue",30,Yes
+Male,39,"Consultation for weight management",20,Yes
+Female,31,"Consultation for anxiety",25,Yes
+Male,33,"Routine health check",30,Yes
+Female,45,"Consultation for reproductive health",20,No
+Male,36,"Consultation for chronic fatigue",15,Yes
+Female,28,"Consultation for weight management",25,Yes
+Male,47,"Consultation for high blood pressure",30,Yes
+Female,55,"Consultation for anxiety",20,Yes
+Male,50,"Routine health check",15,Yes
+Female,38,"Consultation for reproductive health",25,Yes
+Male,44,"Consultation for weight management",30,Yes
+Female,31,"Routine health check",20,No
+Male,45,"Consultation for high blood pressure",25,Yes
+Female,36,"Consultation for anxiety",30,Yes
+Male,33,"Consultation for chronic fatigue",20,Yes
+Female,29,"Consultation for reproductive health",15,No
+Male,60,"Consultation for weight management",25,Yes
+Female,50,"Routine health check",30,Yes
+Male,39,"Consultation for anxiety",20,Yes
+Female,31,"Consultation for high blood pressure",25,Yes
+Male,28,"Routine health check",15,Yes
+Female,55,"Consultation for weight management",30,Yes
+Male,41,"Consultation for reproductive health",20,Yes
+Female,34,"Consultation for chronic fatigue",25,Yes
+Male,37,"Routine health check",30,Yes
+Female,30,"Consultation for anxiety",15,No
+Male,50,"Consultation for high blood pressure",20,Yes
+Female,29,"Consultation for weight management",25,Yes
+Male,45,"Routine health check",30,Yes
+Female,38,"Consultation for reproductive health",20,Yes
+Male,36,"Consultation for chronic fatigue",25,Yes
+Female,42,"Consultation for anxiety",30,Yes
+Male,47,"Routine health check",20,Yes
+Female,31,"Consultation for weight management",25,Yes
+Male,33,"Consultation for high blood pressure",30,Yes
+Female,50,"Consultation for reproductive health",15,No
+Male,29,"Routine health check",25,Yes
+Female,28,"Consultation for chronic fatigue",20,Yes
+Male,45,"Consultation for weight management",30,Yes
+Female,55,"Consultation for anxiety",25,Yes
+Male,39,"Routine health check",15,Yes
+Female,36,"Consultation for reproductive health",30,Yes
+Male,44,"Consultation for high blood pressure",20,Yes
+Female,31,"Consultation for chronic fatigue",25,No
+Male,50,"Consultation for weight management",30,Yes
+Female,40,"Routine health check",20,Yes
+Male,33,"Consultation for anxiety",25,Yes
+Female,29,"Consultation for reproductive health",30,No
+Male,47,"Routine health check",20,Yes
+Female,34,"Consultation for weight management",15,Yes
+Male,55,"Consultation for high blood pressure",25,Yes
+Female,28,"Consultation for chronic fatigue",30,Yes
+Male,45,"Consultation for anxiety",20,Yes
+Female,41,"Consultation for reproductive health",25,Yes
+Male,37,"Routine health check",30,Yes
+Female,50,"Consultation for weight management",20,Yes
+Male,39,"Consultation for high blood pressure",25,Yes
+Female,33,"Routine health check",15,Yes
+Male,31,"Consultation for chronic fatigue",30,No
+Female,60,"Consultation for anxiety",20,Yes
+Male,28,"Routine health check",25,Yes
+Female,36,"Consultation for reproductive health",30,Yes
+Male,44,"Consultation for weight management",20,Yes
+Female,38,"Consultation for high blood pressure",15,Yes
+Male,50,"Consultation for chronic fatigue",25,Yes
+Female,30,"Consultation for anxiety",30,No
+Male,47,"Routine health check",20,Yes
+Female,55,"Consultation for reproductive health",25,Yes
+Male,31,"Consultation for weight management",30,Yes
+Female,33,"Consultation for high blood pressure",20,Yes
+Male,41,"Routine health check",15,Yes
+Female,36,"Consultation for chronic fatigue",25,Yes
+Male,39,"Consultation for anxiety",30,Yes
+Female,28,"Routine health check",20,No
+Male,50,"Consultation for reproductive health",25,Yes
+Female,29,"Consultation for weight management",30,Yes
+Male,34,"Consultation for high blood pressure",20,Yes
+Female,60,"Routine health check",15,Yes
+Male,47,"Consultation for chronic fatigue",25,Yes
+Female,38,"Consultation for anxiety",30,Yes
+Male,55,"Consultation for reproductive health",20,Yes
+Female,30,"Routine health check",15,Yes
+Male,45,"Consultation for weight management",25,Yes
+Female,36,"Consultation for high blood pressure",30,Yes
+Male,29,"Consultation for anxiety",20,Yes
+Female,41,"Consultation for chronic fatigue",25,Yes
+Male,39,"Routine health check",30,Yes
+Female,34,"Consultation for reproductive health",15,Yes
+Male,31,"Consultation for weight management",20,No
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,28,"Routine health check",30,Yes
+Female,55,"Consultation for anxiety",20,Yes
+Male,47,"Consultation for chronic fatigue",25,Yes
+Female,40,"Consultation for reproductive health",30,Yes
+Male,33,"Routine health check",20,Yes
+Female,29,"Consultation for weight management",15,No
+Male,36,"Consultation for high blood pressure",25,Yes
+Female,50,"Consultation for anxiety",30,Yes
+Male,45,"Routine health check",20,Yes
+Female,38,"Consultation for chronic fatigue",25,Yes
+Male,41,"Consultation for reproductive health",30,Yes
+Female,34,"Consultation for weight management",20,Yes
+Male,37,"Consultation for high blood pressure",15,Yes
+Female,31,"Routine health check",25,Yes
+Male,55,"Consultation for anxiety",30,Yes
+Female,60,"Consultation for chronic fatigue",20,Yes
+Male,28,"Consultation for reproductive health",15,No
+Female,45,"Routine health check",25,Yes
+Male,29,"Consultation for weight management",30,Yes
+Female,50,"Consultation for high blood pressure",20,Yes
+Male,33,"Consultation for anxiety",15,Yes
+Female,40,"Routine health check",25,Yes
+Male,47,"Consultation for chronic fatigue",30,Yes
+Female,36,"Consultation for reproductive health",20,Yes
+Male,31,"Consultation for weight management",15,No
+Female,38,"Consultation for high blood pressure",25,Yes
+Male,60,"Routine health check",30,Yes
+Female,44,"Consultation for anxiety",20,Yes
+Male,34,"Consultation for chronic fatigue",25,Yes
+Female,55,"Consultation for reproductive health",30,Yes
+Male,41,"Routine health check",20,Yes
+Female,28,"Consultation for weight management",15,No
+Male,29,"Consultation for high blood pressure",25,Yes
+Female,45,"Consultation for anxiety",30,Yes
+Male,47,"Consultation for chronic fatigue",20,Yes
+Female,33,"Routine health check",15,Yes
+Male,50,"Consultation for reproductive health",25,Yes
+Female,36,"Consultation for weight management",30,Yes
+Male,37,"Consultation for high blood pressure",20,Yes
+Female,31,"Routine health check",15,Yes
+Male,39,"Consultation for anxiety",25,Yes
+Female,38,"Consultation for chronic fatigue",30,Yes
+Male,33,"Consultation for reproductive health",20,No
+Female,50,"Routine health check",15,Yes
+Male,55,"Consultation for weight management",25,Yes
+Female,28,"Consultation for high blood pressure",30,Yes
+Male,41,"Consultation for anxiety",20,Yes
+Female,29,"Routine health check",25,Yes
+Male,60,"Consultation for chronic fatigue",30,Yes
+Female,45,"Consultation for reproductive health",20,Yes
+Male,34,"Consultation for weight management",15,No
+Female,38,"Routine health check",25,Yes
+Male,47,"Consultation for high blood pressure",30,Yes
+Female,40,"Consultation for anxiety",20,Yes
+Male,31,"Consultation for chronic fatigue",15,Yes
+Female,33,"Routine health check",25,Yes
+Male,50,"Consultation for reproductive health",30,Yes
+Female,36,"Consultation for weight management",20,No
+Male,55,"Consultation for high blood pressure",15,Yes
+Female,28,"Routine health check",25,Yes
+Male,45,"Consultation for anxiety",30,Yes
+Female,41,"Consultation for chronic fatigue",20,Yes
+Male,38,"Consultation for reproductive health",15,Yes
+Female,29,"Consultation for weight management",25,Yes
+Male,47,"Consultation for high blood pressure",30,Yes
+Female,34,"Routine health check",20,No
+Male,31,"Consultation for anxiety",25,Yes
+Female,60,"Consultation for chronic fatigue",30,Yes
+Male,50,"Consultation for reproductive health",20,Yes
+Female,55,"Consultation for weight management",15,No
+Male,37,"Routine health check",25,Yes
+Female,28,"Consultation for high blood pressure",30,Yes
+Male,45,"Consultation for anxiety",20,Yes
+Female,39,"Consultation for chronic fatigue",25,Yes
+Male,33,"Routine health check",30,Yes
+Female,41,"Consultation for reproductive health",15,Yes
+Male,47,"Consultation for weight management",25,Yes
+Female,29,"Consultation for high blood pressure",20,No
+Male,50,"Routine health check",15,Yes
+Female,36,"Consultation for anxiety",25,Yes
+Male,44,"Consultation for chronic fatigue",30,Yes
+Female,31,"Consultation for reproductive health",20,Yes
+Male,41,"Consultation for weight management",25,Yes
+Female,55,"Consultation for high blood pressure",30,Yes
+Male,39,"Routine health check",15,Yes
+Female,50,"Consultation for anxiety",20,No
+Male,28,"Consultation for chronic fatigue",25,Yes
+Female,33,"Consultation for reproductive health",30,Yes
+Male,45,"Routine health check",20,Yes
+Female,47,"Consultation for weight management",25,No
+Male,37,"Consultation for high blood pressure",30,Yes
+Female,41,"Consultation for anxiety",20,Yes
+Male,29,"Routine health check",15,Yes
+Female,34,"Consultation for chronic fatigue",25,Yes
+Male,50,"Consultation for reproductive health",30,Yes
+Female,36,"Consultation for weight management",20,No
+Male,55,"Consultation for high blood pressure",15,Yes
+Female,33,"Routine health check",25,Yes
+Male,44,"Consultation for anxiety",30,Yes
+Female,31,"Consultation for chronic fatigue",20,Yes
+Male,28,"Consultation for reproductive health",25,No
+Female,39,"Consultation for weight management",30,Yes
+Male,50,"Routine health check",20,Yes
+Female,29,"Consultation for high blood pressure",25,Yes
+Male,45,"Consultation for anxiety",30,Yes
+Female,34,"Routine health check",15,No
+Male,33,"Consultation for chronic fatigue",25,Yes
+Female,38,"Consultation for reproductive health",20,Yes
+Male,41,"Consultation for weight management",30,Yes
+Female,31,"Routine health check",25,Yes
+Male,47,"Consultation for high blood pressure",20,Yes
+Female,36,"Consultation for anxiety",15,No
+Male,55,"Routine health check",25,Yes
+Female,33,"Consultation for chronic fatigue",30,Yes
+Male,30,"Consultation for reproductive health",20,Yes
+Female,39,"Consultation for weight management",15,Yes
+Male,48,"Consultation for high blood pressure",25,Yes
+Female,28,"Routine health check",30,Yes
+Male,47,"Consultation for anxiety",20,Yes
+Female,36,"Consultation for chronic fatigue",25,No
+Male,29,"Consultation for reproductive health",30,Yes
+Female,50,"Routine health check",15,Yes
+Male,44,"Consultation for weight management",20,Yes
+Female,31,"Consultation for high blood pressure",25,Yes
+Male,37,"Consultation for anxiety",30,Yes
+Female,28,"Routine health check",20,No
+Male,33,"Consultation for chronic fatigue",25,Yes
+Female,60,"Consultation for reproductive health",30,Yes
+Male,45,"Consultation for weight management",20,Yes
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,41,"Routine health check",30,Yes
+Female,34,"Consultation for anxiety",20,No
+Male,29,"Consultation for chronic fatigue",25,Yes
+Female,36,"Consultation for reproductive health",30,Yes
+Male,44,"Consultation for weight management",20,Yes
+Female,31,"Routine health check",25,Yes
+Male,37,"Consultation for high blood pressure",30,Yes
+Female,28,"Consultation for anxiety",15,No
+Male,50,"Routine health check",25,Yes
+Female,47,"Consultation for chronic fatigue",30,Yes
+Male,33,"Consultation for reproductive health",20,Yes
+Female,36,"Consultation for weight management",15,No
+Male,41,"Consultation for high blood pressure",25,Yes
+Female,29,"Routine health check",30,Yes
+Male,55,"Consultation for anxiety",20,Yes
+Female,30,"Consultation for chronic fatigue",25,Yes
+Male,38,"Consultation for reproductive health",30,Yes
+Female,31,"Consultation for weight management",20,Yes
+Male,50,"Routine health check",15,Yes
+Female,28,"Consultation for high blood pressure",25,Yes
+Male,44,"Consultation for anxiety",30,Yes
+Female,33,"Routine health check",20,No
+Male,47,"Consultation for chronic fatigue",25,Yes
+Female,39,"Consultation for reproductive health",30,Yes
+Male,34,"Consultation for weight management",15,Yes
+Female,29,"Consultation for high blood pressure",25,Yes
+Male,31,"Routine health check",20,Yes
+Female,50,"Consultation for anxiety",30,Yes
+Male,33,"Consultation for chronic fatigue",15,No
+Female,28,"Routine health check",25,Yes
+Male,37,"Consultation for reproductive health",30,Yes
+Female,41,"Consultation for weight management",20,Yes
+Male,36,"Routine health check",15,Yes
+Female,45,"Consultation for high blood pressure",25,Yes
+Male,39,"Consultation for anxiety",30,Yes
+Female,31,"Consultation for chronic fatigue",20,No
+Male,48,"Routine health check",15,Yes
+Female,28,"Consultation for reproductive health",25,Yes
+Male,50,"Consultation for weight management",30,Yes
+Female,34,"Consultation for high blood pressure",20,Yes
+Male,55,"Routine health check",15,Yes
+Female,39,"Consultation for anxiety",25,Yes
+Male,29,"Consultation for chronic fatigue",30,Yes
+Female,30,"Consultation for reproductive health",20,No
+Male,33,"Consultation for weight management",25,Yes
+Female,50,"Consultation for high blood pressure",30,Yes
+Male,44,"Routine health check",15,Yes
+Female,36,"Consultation for anxiety",20,Yes
+Male,41,"Consultation for chronic fatigue",25,Yes
+Female,28,"Routine health check",30,Yes
+Male,47,"Consultation for reproductive health",20,Yes
+Female,31,"Consultation for weight management",25,No
+Male,33,"Consultation for high blood pressure",30,Yes
+Female,55,"Consultation for anxiety",20,Yes
+Male,50,"Routine health check",25,Yes
+Female,39,"Consultation for chronic fatigue",30,Yes
+Male,45,"Consultation for reproductive health",20,Yes
+Female,30,"Consultation for weight management",25,Yes
+Male,36,"Routine health check",15,No
+Female,31,"Consultation for high blood pressure",20,Yes
+Male,33,"Consultation for anxiety",25,Yes
+Female,60,"Consultation for chronic fatigue",30,Yes
+Male,34,"Routine health check",15,Yes
+Female,41,"Consultation for reproductive health",20,Yes
+Male,47,"Consultation for weight management",25,Yes
+Female,29,"Consultation for high blood pressure",30,No
+Male,45,"Consultation for anxiety",20,Yes
+Female,50,"Routine health check",15,Yes
+Male,31,"Consultation for chronic fatigue",25,Yes
+Female,36,"Consultation for reproductive health",30,Yes
+Male,33,"Consultation for weight management",20,Yes
+Female,38,"Consultation for high blood pressure",25,Yes
+Male,50,"Routine health check",30,Yes
+Female,28,"Consultation for anxiety",20,No
+Male,44,"Consultation for chronic fatigue",25,Yes
+Female,30,"Consultation for reproductive health",15,Yes
+Male,37,"Consultation for weight management",20,Yes
+Female,41,"Routine health check",25,Yes
+Male,39,"Consultation for high blood pressure",30,Yes
+Female,31,"Consultation for anxiety",20,Yes
+Male,50,"Routine health check",25,Yes
+Female,55,"Consultation for chronic fatigue",30,Yes
+Male,28,"Consultation for reproductive health",15,No
+Female,34,"Consultation for weight management",20,Yes
+Male,44,"Consultation for high blood pressure",25,Yes
+Female,36,"Routine health check",30,Yes
+Male,31,"Consultation for anxiety",20,Yes
+Female,50,"Consultation for chronic fatigue",25,Yes
+Male,29,"Consultation for reproductive health",30,Yes
+Female,33,"Consultation for weight management",20,No
+Male,39,"Routine health check",15,Yes
+Female,28,"Consultation for high blood pressure",25,Yes
+Male,47,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",20,Yes
+Male,45,"Consultation for chronic fatigue",25,Yes
+Female,50,"Consultation for reproductive health",30,Yes
+Male,33,"Consultation for weight management",15,No
+Female,36,"Consultation for high blood pressure",20,Yes
+Male,60,"Routine health check",25,Yes
+Female,34,"Consultation for anxiety",30,Yes
+Male,28,"Consultation for chronic fatigue",20,Yes
+Female,39,"Consultation for reproductive health",25,Yes
+Male,50,"Consultation for weight management",30,Yes
+Female,31,"Routine health check",20,No
+Male,33,"Consultation for high blood pressure",25,Yes
+Female,55,"Consultation for anxiety",30,Yes
+Male,44,"Consultation for chronic fatigue",20,Yes
+Female,30,"Routine health check",15,Yes
+Male,41,"Consultation for reproductive health",25,Yes
+Female,47,"Consultation for weight management",30,Yes
+Male,36,"Routine health check",20,No
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,29,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",15,Yes
+Male,39,"Consultation for chronic fatigue",20,Yes
+Female,28,"Consultation for reproductive health",25,Yes
+Male,50,"Consultation for weight management",30,Yes
+Female,34,"Routine health check",20,No
+Male,45,"Consultation for high blood pressure",25,Yes
+Female,36,"Consultation for anxiety",30,Yes
+Male,31,"Routine health check",20,Yes
+Female,33,"Consultation for chronic fatigue",25,Yes
+Male,60,"Consultation for reproductive health",30,Yes
+Female,39,"Consultation for weight management",20,Yes
+Male,44,"Routine health check",25,Yes
+Female,30,"Consultation for high blood pressure",15,No
+Male,50,"Consultation for anxiety",20,Yes
+Female,55,"Consultation for chronic fatigue",25,Yes
+Male,34,"Consultation for reproductive health",30,Yes
+Female,28,"Consultation for weight management",20,Yes
+Male,33,"Routine health check",15,Yes
+Female,41,"Consultation for high blood pressure",25,Yes
+Male,31,"Consultation for anxiety",30,Yes
+Female,36,"Consultation for chronic fatigue",20,Yes
+Male,39,"Consultation for reproductive health",25,No
+Female,47,"Consultation for weight management",30,Yes
+Male,33,"Routine health check",20,Yes
+Female,28,"Consultation for high blood pressure",25,Yes
+Male,44,"Consultation for anxiety",30,Yes
+Female,50,"Consultation for chronic fatigue",20,No
+Male,31,"Consultation for reproductive health",25,Yes
+Female,34,"Consultation for weight management",30,Yes
+Male,29,"Routine health check",15,Yes
+Female,36,"Consultation for high blood pressure",20,Yes
+Male,55,"Consultation for anxiety",25,Yes
+Female,30,"Consultation for chronic fatigue",30,Yes
+Male,41,"Consultation for reproductive health",20,Yes
+Female,31,"Consultation for weight management",15,No
+Male,37,"Routine health check",25,Yes
+Female,50,"Consultation for high blood pressure",30,Yes
+Male,28,"Consultation for anxiety",20,Yes
+Female,33,"Consultation for chronic fatigue",25,No
+Male,44,"Consultation for reproductive health",30,Yes
+Female,60,"Consultation for weight management",20,Yes
+Male,34,"Routine health check",15,Yes
+Female,39,"Consultation for high blood pressure",25,Yes
+Male,50,"Consultation for anxiety",30,Yes
+Female,28,"Consultation for chronic fatigue",20,No
+Male,41,"Consultation for reproductive health",25,Yes
+Female,36,"Consultation for weight management",30,Yes
+Male,33,"Routine health check",20,Yes
+Female,55,"Consultation for high blood pressure",25,Yes
+Male,29,"Consultation for anxiety",15,No
+Female,30,"Routine health check",25,Yes
+Male,34,"Consultation for chronic fatigue",30,Yes
+Female,50,"Consultation for reproductive health",20,Yes
+Male,28,"Consultation for weight management",15,Yes
+Female,45,"Routine health check",25,Yes
+Male,31,"Consultation for high blood pressure",30,Yes
+Female,39,"Consultation for anxiety",20,No
+Male,33,"Consultation for chronic fatigue",25,Yes
+Female,41,"Consultation for reproductive health",30,Yes
+Male,47,"Routine health check",15,Yes
+Female,30,"Consultation for weight management",25,Yes
+Male,36,"Consultation for high blood pressure",20,Yes
+Female,50,"Consultation for anxiety",30,Yes
+Male,29,"Routine health check",15,Yes
+Female,34,"Consultation for chronic fatigue",25,Yes
+Male,60,"Consultation for reproductive health",30,Yes
+Female,28,"Consultation for weight management",20,No
+Male,55,"Consultation for high blood pressure",25,Yes
+Female,33,"Routine health check",15,Yes
+Male,31,"Consultation for anxiety",30,Yes
+Female,39,"Consultation for chronic fatigue",20,No
+Male,50,"Consultation for reproductive health",25,Yes
+Female,34,"Consultation for weight management",30,Yes
+Male,29,"Routine health check",15,Yes
+Female,45,"Consultation for high blood pressure",25,Yes
+Male,41,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",20,No
+Male,36,"Consultation for chronic fatigue",25,Yes
+Female,28,"Consultation for reproductive health",30,Yes
+Male,60,"Consultation for weight management",20,Yes
+Female,50,"Routine health check",15,Yes
+Male,44,"Consultation for high blood pressure",25,Yes
+Female,33,"Consultation for anxiety",30,Yes
+Male,37,"Consultation for chronic fatigue",20,Yes
+Female,30,"Routine health check",25,No
+Male,39,"Consultation for reproductive health",15,Yes
+Female,50,"Consultation for weight management",30,Yes
+Male,31,"Consultation for high blood pressure",20,Yes
+Female,28,"Routine health check",15,No
+Male,44,"Consultation for anxiety",25,Yes
+Female,36,"Consultation for chronic fatigue",30,Yes
+Male,33,"Consultation for reproductive health",20,Yes
+Female,39,"Consultation for weight management",15,Yes
+Male,50,"Routine health check",25,Yes
+Female,28,"Consultation for high blood pressure",30,Yes
+Male,47,"Consultation for anxiety",20,Yes
+Female,34,"Routine health check",25,No
+Male,31,"Consultation for chronic fatigue",15,Yes
+Female,55,"Consultation for reproductive health",30,Yes
+Male,29,"Consultation for weight management",20,Yes
+Female,33,"Consultation for high blood pressure",25,Yes
+Male,41,"Routine health check",30,Yes
+Female,36,"Consultation for anxiety",20,No
+Male,30,"Consultation for chronic fatigue",25,Yes
+Female,50,"Consultation for reproductive health",30,Yes
+Male,45,"Routine health check",20,Yes
+Female,28,"Consultation for weight management",15,No
+Male,37,"Consultation for high blood pressure",25,Yes
+Female,31,"Consultation for anxiety",30,Yes
+Male,47,"Routine health check",20,Yes
+Female,34,"Consultation for chronic fatigue",25,Yes
+Male,41,"Consultation for reproductive health",30,Yes
+Female,39,"Consultation for weight management",20,Yes
+Male,50,"Routine health check",15,Yes
+Female,45,"Consultation for high blood pressure",25,Yes
+Male,29,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",20,No
+Male,36,"Consultation for chronic fatigue",25,Yes
+Female,33,"Consultation for reproductive health",30,Yes
+Male,50,"Consultation for weight management",20,Yes
+Female,28,"Routine health check",15,No
+Male,55,"Consultation for high blood pressure",25,Yes
+Female,30,"Consultation for anxiety",20,Yes
+Male,34,"Consultation for chronic fatigue",25,Yes
+Female,50,"Routine health check",30,Yes
+Male,45,"Consultation for reproductive health",20,Yes
+Female,31,"Consultation for weight management",15,Yes
+Male,37,"Routine health check",25,Yes
+Female,36,"Consultation for high blood pressure",20,Yes
+Male,33,"Consultation for anxiety",30,Yes
+Female,29,"Routine health check",15,No
+Male,50,"Consultation for chronic fatigue",25,Yes
+Female,55,"Consultation for reproductive health",30,Yes
+Male,44,"Routine health check",20,Yes
+Female,31,"Consultation for weight management",25,Yes
+Male,41,"Consultation for high blood pressure",30,Yes
+Female,39,"Consultation for anxiety",20,No
+Male,33,"Consultation for chronic fatigue",15,Yes
+Female,50,"Consultation for reproductive health",25,Yes
+Male,28,"Consultation for weight management",30,Yes
+Female,36,"Routine health check",20,Yes
+Male,37,"Consultation for high blood pressure",25,Yes
+Female,31,"Consultation for anxiety",30,Yes
+Male,45,"Routine health check",20,Yes
+Female,33,"Consultation for chronic fatigue",25,Yes
+Male,41,"Consultation for reproductive health",30,Yes
+Female,34,"Consultation for weight management",20,No
+Male,29,"Routine health check",15,Yes
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,55,"Consultation for anxiety",30,Yes
+Female,28,"Routine health check",20,Yes
+Male,36,"Consultation for chronic fatigue",25,No
+Female,30,"Consultation for reproductive health",30,Yes
+Male,47,"Consultation for weight management",20,Yes
+Female,31,"Routine health check",15,Yes
+Male,39,"Consultation for high blood pressure",25,Yes
+Female,33,"Consultation for anxiety",30,Yes
+Male,41,"Routine health check",20,No
+Female,50,"Consultation for chronic fatigue",25,Yes
+Male,28,"Consultation for reproductive health",30,Yes
+Female,30,"Consultation for weight management",20,No
+Male,33,"Routine health check",15,Yes
+Female,36,"Consultation for high blood pressure",25,Yes
+Male,31,"Consultation for anxiety",30,Yes
+Female,50,"Consultation for chronic fatigue",20,Yes
+Male,44,"Routine health check",25,Yes
+Female,41,"Consultation for reproductive health",30,Yes
+Male,29,"Consultation for weight management",20,No
+Female,37,"Consultation for high blood pressure",25,Yes
+Male,28,"Routine health check",15,Yes
+Female,55,"Consultation for anxiety",30,Yes
+Male,33,"Consultation for chronic fatigue",20,Yes
+Female,30,"Consultation for reproductive health",25,Yes
+Male,41,"Consultation for weight management",30,Yes
+Female,34,"Routine health check",20,No
+Male,39,"Consultation for high blood pressure",25,Yes
+Female,31,"Consultation for anxiety",30,Yes
+Male,50,"Routine health check",20,Yes
+Female,28,"Consultation for chronic fatigue",15,Yes
+Male,36,"Consultation for reproductive health",25,Yes
+Female,45,"Consultation for weight management",30,Yes
+Male,33,"Routine health check",20,No
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,39,"Consultation for anxiety",30,Yes
+Female,31,"Routine health check",15,Yes
+Male,47,"Consultation for chronic fatigue",25,Yes
+Female,28,"Consultation for reproductive health",20,No
+Male,50,"Consultation for weight management",30,Yes
+Female,33,"Routine health check",20,Yes
+Male,29,"Consultation for high blood pressure",25,Yes
+Female,55,"Consultation for anxiety",30,Yes
+Male,34,"Routine health check",15,Yes
+Female,30,"Consultation for chronic fatigue",25,Yes
+Male,41,"Consultation for reproductive health",30,Yes
+Female,39,"Consultation for weight management",20,No
+Male,36,"Routine health check",25,Yes
+Female,28,"Consultation for high blood pressure",30,Yes
+Male,33,"Consultation for anxiety",20,Yes
+Female,50,"Routine health check",15,Yes
+Male,45,"Consultation for chronic fatigue",25,Yes
+Female,31,"Consultation for reproductive health",30,Yes
+Male,30,"Consultation for weight management",20,No
+Female,34,"Routine health check",15,Yes
+Male,39,"Consultation for high blood pressure",25,Yes
+Female,28,"Consultation for anxiety",30,Yes
+Male,50,"Routine health check",20,Yes
+Female,31,"Consultation for chronic fatigue",25,Yes
+Male,47,"Consultation for reproductive health",30,Yes
+Female,29,"Consultation for weight management",20,No
+Male,55,"Consultation for high blood pressure",25,Yes
+Female,33,"Routine health check",15,Yes
+Male,44,"Consultation for anxiety",30,Yes
+Female,36,"Consultation for chronic fatigue",20,Yes
+Male,50,"Consultation for reproductive health",25,Yes
+Female,28,"Consultation for weight management",30,Yes
+Male,39,"Routine health check",20,No
+Female,50,"Consultation for high blood pressure",25,Yes
+Male,34,"Consultation for anxiety",30,Yes
+Female,33,"Routine health check",20,Yes
+Male,41,"Consultation for chronic fatigue",15,Yes
+Female,28,"Consultation for reproductive health",25,Yes
+Male,39,"Consultation for weight management",30,Yes
+Female,55,"Routine health check",20,No
+Male,44,"Consultation for high blood pressure",25,Yes
+Female,30,"Consultation for anxiety",30,Yes
+Male,33,"Routine health check",20,Yes
+Female,36,"Consultation for chronic fatigue",25,Yes
+Male,31,"Consultation for reproductive health",30,Yes
+Female,41,"Consultation for weight management",20,Yes
+Male,50,"Routine health check",15,Yes
+Female,28,"Consultation for high blood pressure",25,No
+Male,47,"Consultation for anxiety",30,Yes
+Female,34,"Routine health check",20,Yes
+Male,30,"Consultation for chronic fatigue",25,Yes
+Female,50,"Consultation for reproductive health",30,Yes
+Male,39,"Consultation for weight management",20,No
+Female,33,"Routine health check",25,Yes
+Male,31,"Consultation for high blood pressure",30,Yes
+Female,28,"Consultation for anxiety",20,Yes
+Male,55,"Routine health check",25,Yes
+Female,41,"Consultation for chronic fatigue",30,Yes
+Male,29,"Consultation for reproductive health",20,Yes
+Female,50,"Consultation for weight management",15,No
+Male,47,"Consultation for high blood pressure",25,Yes
+Female,30,"Routine health check",20,Yes
+Male,34,"Consultation for anxiety",30,Yes
+Female,28,"Consultation for chronic fatigue",15,Yes
+Male,50,"Consultation for reproductive health",25,Yes
+Female,41,"Consultation for weight management",30,Yes
+Male,31,"Routine health check",20,No
+Female,55,"Consultation for high blood pressure",15,Yes
+Male,30,"Consultation for anxiety",25,Yes
+Female,28,"Routine health check",30,Yes
+Male,39,"Consultation for chronic fatigue",20,Yes
+Female,33,"Consultation for reproductive health",25,No
+Male,45,"Consultation for weight management",30,Yes
+Female,41,"Routine health check",20,Yes
+Male,31,"Consultation for high blood pressure",25,Yes
+Female,50,"Consultation for anxiety",30,Yes
+Male,33,"Consultation for chronic fatigue",20,Yes
+Female,36,"Consultation for reproductive health",25,Yes
+Male,30,"Routine health check",15,No
+Female,29,"Consultation for weight management",25,Yes
+Male,47,"Consultation for high blood pressure",30,Yes
+Female,33,"Consultation for anxiety",20,Yes
+Male,41,"Routine health check",25,Yes
+Female,28,"Consultation for chronic fatigue",30,Yes
+Male,34,"Consultation for reproductive health",15,No
+Female,55,"Consultation for weight management",20,Yes
+Male,39,"Routine health check",25,Yes
+Female,31,"Consultation for high blood pressure",30,Yes
+Male,50,"Consultation for anxiety",20,Yes
