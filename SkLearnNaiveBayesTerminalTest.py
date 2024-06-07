@@ -2,7 +2,8 @@ import pandas as pd
 import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.naive_bayes import MultinomialNB
+#from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import LinearRegression
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -29,10 +30,15 @@ class DataHandler:
 
     def load_data(self):
         data = pd.read_csv(self.filename)
-        sentences = data.iloc[:, 0].values
-        # assign appointment length time to int
-        durations = data.iloc[:, 1].values.astype(int)
-        return sentences, durations
+        gender = data.iloc[:, 0].values
+        age = data.iloc[:, 1].values.astype(int)
+        sentences = sentences = data.iloc[:, 2].values
+        durations = data.iloc[:, 3].values.astype(int)
+
+        # sentences = data.iloc[:, 0].values
+        # # assign appointment length time to int
+        # durations = data.iloc[:, 1].values.astype(int)
+        return gender, age, sentences, durations
 
     def preprocess_data(self, sentences):
         processed_sentences = []
@@ -49,7 +55,7 @@ class NaiveBayesModel:
     def __init__(self):
         #instantiate model Class objs
         self.vectorizer = TfidfVectorizer(ngram_range=(1, 2))
-        self.model = MultinomialNB(alpha=0.1)
+        self.model = LinearRegression(alpha=0.1)
 
     def train(self, X_train, y_train):
         # X is matrix of samples to features
@@ -79,8 +85,14 @@ def main():
 
     # load and preprocess data
     data_handler = DataHandler(data_file)
-    sentences, durations = data_handler.load_data()
+    gender, age, sentences, duration = data_handler.load_data()
     processed_sentences = data_handler.preprocess_data(sentences)
+
+    #rearange so splitting rest of variables
+    #have a column for gender age age
+    #gender convert into 0s and 1s
+    #turn sentecnes into matrix where each row is training ex and row is count of number of words in doc
+    #append to matrix columns for gender and age
 
     # split the dataset
     X_train, X_test, y_train, y_test = train_test_split(processed_sentences, durations, test_size=0.2, random_state=50)
