@@ -1,0 +1,1669 @@
+Male,25,"Routine check-up for a young male",15
+Female,34,"Annual physical examination for a female patient",20
+Male,45,"Consultation for back pain",30
+Female,52,"Follow-up visit after surgery",25
+Male,63,"Evaluation of hypertension",40
+Female,29,"Appointment for flu symptoms",15
+Male,37,"Routine blood work",10
+Female,48,"Mammogram appointment",30
+Male,56,"Cardiology consultation",45
+Female,67,"Diabetes management",50
+Male,32,"Minor injury treatment",20
+Female,41,"Prescription renewal",10
+Male,74,"Geriatric assessment",60
+Female,55,"Post-operative check-up",25
+Male,43,"Skin rash examination",15
+Female,28,"General health consultation",20
+Male,39,"Asthma management",30
+Female,50,"Thyroid evaluation",25
+Male,60,"Routine colonoscopy",60
+Female,33,"Pediatric visit for child's vaccination",20
+Male,22,"Sports injury follow-up",30
+Female,46,"Neurological assessment",35
+Male,55,"Prostate screening",25
+Female,62,"Osteoporosis check-up",40
+Male,31,"Travel health consultation",15
+Female,44,"Dermatology appointment",20
+Male,49,"Ear infection treatment",10
+Female,58,"Menopause management",25
+Male,36,"Sleep apnea consultation",30
+Female,27,"Mental health evaluation",50
+Male,42,"Allergy testing",20
+Female,53,"Cholesterol check",15
+Male,64,"Routine eye examination",30
+Female,38,"Follow-up for chronic pain",35
+Male,71,"Annual wellness visit",45
+Female,60,"Arthritis management",40
+Male,29,"Vaccination appointment",10
+Female,47,"Gynecological exam",20
+Male,50,"Dietary consultation",25
+Female,56,"Blood pressure monitoring",15
+Male,35,"Hearing test",20
+Female,43,"Heart health check-up",30
+Male,28,"Injury follow-up",15
+Female,39,"Throat infection treatment",10
+Male,65,"Kidney function evaluation",35
+Female,49,"Breast examination",25
+Male,58,"Diabetes follow-up",30
+Female,61,"Respiratory evaluation",20
+Male,33,"Acid reflux consultation",15
+Female,45,"Thyroid check",25
+Male,52,"Physical therapy session",40
+Female,68,"Routine vaccination",15
+Male,41,"Chronic disease management",35
+Female,54,"Eye infection treatment",10
+Male,60,"Lung function test",30
+Female,36,"Postnatal check-up",20
+Male,48,"Bone density scan",25
+Female,63,"Urinary tract infection treatment",15
+Male,47,"HIV testing",20
+Female,29,"Birth control consultation",10
+Male,39,"Chronic pain follow-up",30
+Female,53,"Fertility consultation",35
+Male,62,"Stroke prevention consultation",40
+Female,27,"Acne treatment",20
+Male,55,"Weight management appointment",25
+Female,50,"Sleep disorder consultation",30
+Male,32,"Hernia follow-up",15
+Female,42,"Menstrual disorder consultation",25
+Male,57,"Dietary follow-up",20
+Female,34,"Allergy consultation",15
+Male,49,"Prostate follow-up",30
+Female,61,"Heart disease management",35
+Male,44,"Urinary issues treatment",20
+Female,51,"Chronic fatigue consultation",25
+Male,29,"Sports physical",10
+Female,38,"Chronic illness follow-up",30
+Male,63,"Hepatitis screening",20
+Female,41,"Post-surgical follow-up",25
+Male,46,"Blood disorder consultation",35
+Female,52,"Eczema treatment",15
+Male,35,"Liver function test",20
+Female,57,"Hormone replacement consultation",25
+Male,30,"Pre-employment physical",10
+Female,50,"Sinus infection treatment",20
+Male,48,"Chronic migraine management",30
+Female,33,"Cancer screening",35
+Male,64,"Sleep study consultation",40
+Female,40,"Routine dental check-up",15
+Male,37,"Asthma follow-up",20
+Female,49,"Prenatal consultation",25
+Male,53,"Gastrointestinal evaluation",30
+Female,28,"Mental health follow-up",35
+Male,59,"Arthritis follow-up",20
+Female,45,"Chronic bronchitis consultation",25
+Male,42,"Hypertension follow-up",15
+Female,54,"Bone health check",20
+Male,60,"Nutritional consultation",30
+Female,36,"Pediatric check-up",25
+Male,47,"Pre-surgery consultation",35
+Female,51,"Allergy follow-up",20
+Male,56,"Kidney disease management",25
+Female,39,"Weight loss consultation",15
+Male,31,"Flu vaccination",10
+Female,55,"Thyroid management",20
+Male,43,"Heart health follow-up",30
+Female,44,"Menopause follow-up",35
+Male,61,"Post-op knee check-up",40
+Female,46,"Routine blood pressure check",15
+Male,35,"Asthma check",20
+Female,37,"Diabetes check",25
+Male,49,"General health check-up",30
+Female,52,"Liver disease follow-up",35
+Male,63,"Arthritis check",40
+Female,33,"Routine vaccination",15
+Male,41,"Routine dental visit",20
+Female,50,"Follow-up for chronic illness",25
+Male,38,"Consultation for skin condition",30
+Female,57,"Cardiac check-up",35
+Male,62,"Diabetes evaluation",20
+Female,44,"Health maintenance visit",25
+Male,47,"Routine vision test",15
+Female,55,"Hypertension management",20
+Male,39,"Blood pressure check-up",30
+Female,60,"Routine wellness check",35
+Male,31,"Respiratory follow-up",40
+Female,48,"Skin examination",15
+Male,36,"Bone health evaluation",20
+Female,53,"Cardiology follow-up",25
+Male,46,"Joint pain consultation",30
+Female,29,"Birth control follow-up",20
+Male,59,"Kidney follow-up",25
+Female,42,"Consultation for migraines",15
+Male,45,"Routine check-up",20
+Female,38,"Pediatric health check",25
+Male,50,"Vaccination follow-up",30
+Female,60,"Thyroid consultation",35
+Male,43,"Consultation for chronic illness",20
+Female,47,"General health evaluation",25
+Male,57,"Annual eye examination",15
+Female,31,"Health assessment",20
+Male,40,"Routine screening",25
+Female,63,"Consultation for back pain",30
+Male,32,"Follow-up for surgery",35
+Female,55,"Blood work consultation",20
+Male,49,"Thyroid follow-up",25
+Female,34,"Respiratory consultation",15
+Male,44,"Consultation for joint pain",20
+Female,51,"Health check-up",25
+Male,58,"Consultation for digestive issues",30
+Female,37,"Consultation for skin rash",15
+Male,66,"Diabetes management follow-up",20
+Female,45,"Routine vaccination",25
+Male,53,"Post-op follow-up",30
+Female,60,"Heart disease check-up",35
+Male,41,"Consultation for high blood pressure",20
+Female,48,"Follow-up for flu",25
+Male,30,"Pre-surgery assessment",15
+Female,52,"Routine check-up",20
+Male,57,"Health maintenance visit",25
+Female,39,"Follow-up for thyroid disorder",30
+Male,34,"Mental health consultation",35
+Female,49,"Routine examination",20
+Male,47,"Post-surgical evaluation",25
+Female,61,"Gastrointestinal check-up",15
+Male,37,"Health screening",20
+Female,55,"Respiratory follow-up",25
+Male,33,"Consultation for allergies",30
+Female,40,"Thyroid disorder follow-up",35
+Male,64,"Annual check-up",20
+Female,29,"Diabetes check-up",25
+Male,42,"Consultation for hypertension",15
+Female,50,"Health management",20
+Male,53,"General follow-up",25
+Female,35,"Consultation for skin condition",30
+Male,60,"Mental health follow-up",35
+Female,38,"Annual physical",20
+Male,46,"Consultation for respiratory issues",25
+Female,58,"Health maintenance",30
+Male,31,"Thyroid follow-up",35
+Female,54,"Routine health check",20
+Male,62,"Consultation for chronic condition",25
+Female,33,"Health assessment",15
+Male,45,"Consultation for asthma",20
+Female,52,"Annual check-up",25
+Male,39,"Consultation for high blood pressure",30
+Female,56,"Mental health evaluation",20
+Male,49,"Annual wellness visit",25
+Female,41,"Consultation for chronic pain",15
+Male,47,"Follow-up for diabetes",20
+Female,53,"Respiratory health check",25
+Male,34,"Thyroid evaluation",30
+Female,29,"General health consultation",20
+Male,59,"Routine vaccination",15
+Female,45,"Follow-up for hypertension",20
+Male,36,"Consultation for digestive issues",25
+Female,50,"Health follow-up",30
+Male,61,"Consultation for arthritis",20
+Female,55,"Mental health check-up",25
+Male,43,"Health maintenance follow-up",15
+Female,48,"Routine wellness visit",20
+Male,51,"Consultation for chronic illness",25
+Female,44,"Follow-up for back pain",30
+Male,30,"Annual check-up",15
+Female,60,"Consultation for respiratory condition",20
+Male,41,"Mental health maintenance",25
+Female,39,"Routine vaccination",15
+Male,33,"Consultation for chronic disease",20
+Female,56,"General health assessment",25
+Male,47,"Follow-up for thyroid condition",30
+Female,52,"Consultation for asthma",20
+Male,35,"Annual wellness check",25
+Female,49,"Routine check-up",15
+Male,58,"Consultation for arthritis",20
+Female,40,"Health evaluation",25
+Male,62,"Follow-up for surgery",30
+Female,44,"Annual physical",20
+Male,37,"Consultation for respiratory health",25
+Female,46,"Consultation for skin condition",30
+Male,54,"Annual check-up",15
+Female,50,"Follow-up for diabetes",20
+Male,29,"Health maintenance visit",25
+Female,39,"Consultation for chronic condition",30
+Male,31,"Consultation for hypertension",20
+Female,61,"Routine health check",25
+Male,33,"Follow-up for digestive issues",15
+Female,45,"Consultation for arthritis",20
+Male,53,"General health follow-up",25
+Female,38,"Routine wellness visit",30
+Male,44,"Consultation for back pain",20
+Female,42,"Follow-up for chronic illness",25
+Male,50,"Annual wellness check",15
+Female,55,"Health maintenance consultation",20
+Male,46,"Consultation for thyroid disorder",25
+Female,29,"Annual check-up",30
+Male,41,"Follow-up for respiratory issues",20
+Female,52,"Health maintenance visit",25
+Male,35,"Consultation for digestive condition",30
+Female,48,"Routine vaccination",15
+Male,39,"Consultation for chronic disease",20
+Female,50,"General health check",25
+Male,47,"Annual check-up",15
+Female,37,"Mental health follow-up",20
+Male,60,"Consultation for high blood pressure",25
+Female,42,"Consultation for back pain",30
+Male,49,"Follow-up for arthritis",20
+Female,56,"Routine health check",25
+Male,33,"Health maintenance consultation",15
+Female,40,"Consultation for skin condition",20
+Male,55,"Annual wellness visit",25
+Female,38,"Mental health maintenance",30
+Male,63,"Follow-up for surgery",20
+Female,44,"Consultation for respiratory condition",25
+Male,31,"Routine health check",15
+Female,61,"Consultation for chronic condition",20
+Male,53,"Health maintenance follow-up",25
+Female,29,"Annual check-up",15
+Male,45,"Consultation for hypertension",20
+Female,50,"Follow-up for digestive issues",25
+Male,41,"Consultation for back pain",30
+Female,35,"Health maintenance visit",15
+Male,57,"Routine wellness visit",20
+Female,48,"Consultation for skin condition",25
+Male,39,"Follow-up for respiratory issues",15
+Female,52,"Health maintenance check",20
+Male,64,"Consultation for arthritis",25
+Female,44,"Consultation for digestive issues",30
+Male,47,"Routine health check",20
+Female,33,"Follow-up for surgery",25
+Male,46,"Consultation for thyroid disorder",15
+Female,54,"Annual wellness check",20
+Male,37,"Consultation for chronic disease",25
+Female,40,"Routine vaccination",30
+Male,58,"Health maintenance follow-up",20
+Female,45,"Consultation for back pain",25
+Male,62,"Routine wellness visit",15
+Female,34,"Consultation for respiratory health",20
+Male,50,"Consultation for arthritis",25
+Female,36,"Follow-up for chronic condition",30
+Male,44,"Routine wellness check",20
+Female,60,"Consultation for digestive issues",25
+Male,31,"Follow-up for surgery",15
+Female,41,"Routine health check",20
+Male,49,"Consultation for chronic illness",25
+Female,53,"Annual wellness visit",30
+Male,35,"Routine vaccination",15
+Female,38,"Consultation for thyroid disorder",20
+Male,47,"Consultation for arthritis",25
+Female,55,"Health maintenance follow-up",30
+Male,42,"Routine wellness visit",20
+Female,50,"Consultation for respiratory condition",25
+Male,33,"Follow-up for surgery",15
+Female,37,"Routine health check",20
+Male,64,"Consultation for back pain",25
+Female,46,"Consultation for chronic illness",30
+Male,41,"Routine vaccination",20
+Female,56,"Annual wellness visit",25
+Male,38,"Consultation for arthritis",15
+Female,52,"Health maintenance check",20
+Male,44,"Consultation for respiratory health",25
+Female,50,"Follow-up for chronic condition",30
+Male,36,"Routine health check",20
+Female,45,"Consultation for thyroid disorder",25
+Male,62,"Routine wellness visit",20
+Female,34,"Consultation for chronic illness",15
+Male,47,"Health maintenance follow-up",20
+Female,31,"Routine vaccination",25
+Male,53,"Consultation for respiratory condition",30
+Female,39,"Routine health check",20
+Male,50,"Consultation for back pain",25
+Female,35,"Follow-up for chronic condition",15
+Male,49,"Health maintenance visit",20
+Female,44,"Routine wellness check",25
+Male,58,"Consultation for digestive issues",30
+Female,42,"Routine health check",20
+Male,64,"Consultation for respiratory health",25
+Female,38,"Follow-up for chronic illness",15
+Male,56,"Routine wellness visit",20
+Female,33,"Consultation for thyroid disorder",25
+Male,40,"Consultation for back pain",30
+Female,45,"Routine health check",20
+Male,51,"Consultation for arthritis",25
+Female,35,"Follow-up for surgery",15
+Male,48,"Health maintenance follow-up",20
+Female,53,"Routine wellness visit",25
+Male,60,"Consultation for chronic condition",30
+Female,37,"Routine health check",20
+Male,62,"Consultation for respiratory condition",25
+Female,34,"Consultation for back pain",30
+Male,41,"Routine wellness check",20
+Female,49,"Consultation for thyroid disorder",25
+Male,54,"Health maintenance follow-up",15
+Female,38,"Routine vaccination",20
+Male,46,"Consultation for chronic illness",25
+Female,50,"Follow-up for surgery",30
+Male,42,"Routine health check",20
+Female,56,"Consultation for respiratory health",25
+Male,33,"Consultation for arthritis",15
+Female,31,"Health maintenance visit",20
+Male,60,"Consultation for back pain",25
+Female,44,"Routine wellness check",30
+Male,40,"Consultation for chronic condition",20
+Female,45,"Follow-up for surgery",25
+Male,48,"Health maintenance follow-up",30
+Female,52,"Consultation for respiratory condition",20
+Male,35,"Routine wellness visit",25
+Female,41,"Consultation for arthritis",30
+Male,57,"Routine health check",20
+Female,37,"Consultation for back pain",25
+Male,54,"Follow-up for chronic illness",30
+Female,39,"Health maintenance visit",20
+Male,46,"Routine wellness check",25
+Female,44,"Consultation for respiratory health",30
+Male,50,"Consultation for chronic condition",20
+Female,33,"Routine vaccination",25
+Male,35,"Consultation for back pain",30
+Female,56,"Routine health check",20
+Male,49,"Health maintenance follow-up",25
+Female,38,"Consultation for arthritis",30
+Male,62,"Follow-up for surgery",20
+Female,40,"Routine wellness visit",25
+Male,52,"Consultation for respiratory health",30
+Female,46,"Consultation for chronic condition",20
+Male,41,"Routine health check",25
+Female,50,"Consultation for back pain",30
+Male,47,"Follow-up for chronic illness",20
+Female,33,"Health maintenance visit",25
+Male,56,"Routine wellness check",30
+Female,31,"Consultation for arthritis",20
+Male,60,"Consultation for respiratory condition",25
+Female,42,"Routine health check",30
+Male,48,"Consultation for back pain",20
+Female,45,"Health maintenance follow-up",25
+Male,64,"Routine wellness visit",30
+Female,34,"Consultation for chronic condition",20
+Male,50,"Consultation for respiratory health",25
+Female,37,"Routine health check",30
+Male,46,"Consultation for arthritis",20
+Female,39,"Follow-up for chronic illness",25
+Male,53,"Routine wellness check",30
+Female,40,"Consultation for back pain",20
+Male,58,"Health maintenance visit",25
+Female,33,"Routine vaccination",30
+Male,31,"Consultation for respiratory condition",20
+Female,55,"Follow-up for surgery",25
+Male,44,"Routine health check",30
+Female,49,"Consultation for arthritis",20
+Male,47,"Consultation for chronic condition",25
+Female,35,"Health maintenance visit",30
+Male,60,"Routine wellness check",20
+Female,41,"Consultation for respiratory health",25
+Male,56,"Consultation for back pain",30
+Female,38,"Routine health check",20
+Male,46,"Follow-up for chronic illness",25
+Female,53,"Health maintenance visit",30
+Male,42,"Routine wellness check",20
+Female,31,"Consultation for arthritis",25
+Male,50,"Consultation for respiratory condition",30
+Female,33,"Routine health check",20
+Male,62,"Consultation for back pain",25
+Female,45,"Health maintenance follow-up",30
+Male,49,"Consultation for chronic condition",20
+Female,35,"Routine wellness visit",25
+Male,60,"Consultation for respiratory health",30
+Female,38,"Consultation for arthritis",20
+Male,64,"Routine health check",25
+Female,44,"Follow-up for chronic illness",30
+Male,41,"Health maintenance visit",20
+Female,56,"Consultation for back pain",25
+Male,31,"Routine wellness check",30
+Female,46,"Consultation for respiratory condition",20
+Male,58,"Consultation for arthritis",25
+Female,33,"Routine health check",30
+Male,53,"Consultation for chronic condition",20
+Female,37,"Routine vaccination",25
+Male,50,"Follow-up for surgery",30
+Female,34,"Consultation for back pain",20
+Male,62,"Health maintenance visit",25
+Female,49,"Consultation for respiratory health",30
+Male,40,"Routine wellness check",20
+Female,44,"Consultation for arthritis",25
+Male,45,"Consultation for chronic condition",30
+Female,31,"Health maintenance follow-up",20
+Male,60,"Routine health check",25
+Female,33,"Consultation for back pain",30
+Male,47,"Consultation for respiratory condition",20
+Female,52,"Routine wellness visit",25
+Male,35,"Follow-up for chronic illness",30
+Female,38,"Consultation for arthritis",20
+Male,56,"Health maintenance visit",25
+Female,40,"Routine wellness check",30
+Male,54,"Consultation for back pain",20
+Female,42,"Consultation for chronic condition",25
+Male,49,"Consultation for respiratory health",30
+Female,35,"Routine health check",20
+Male,60,"Consultation for arthritis",25
+Female,39,"Follow-up for surgery",30
+Male,64,"Health maintenance visit",20
+Female,45,"Routine wellness check",25
+Male,31,"Consultation for back pain",30
+Female,53,"Consultation for chronic condition",20
+Male,50,"Consultation for respiratory health",25
+Female,37,"Routine health check",30
+Male,56,"Consultation for arthritis",20
+Female,44,"Health maintenance follow-up",25
+Male,33,"Routine wellness visit",30
+Female,41,"Consultation for back pain",20
+Male,62,"Consultation for chronic condition",25
+Female,35,"Consultation for respiratory health",30
+Male,47,"Routine health check",20
+Female,38,"Consultation for arthritis",25
+Male,60,"Follow-up for surgery",30
+Female,40,"Health maintenance visit",20
+Male,50,"Routine wellness check",25
+Female,31,"Consultation for back pain",30
+Male,44,"Consultation for chronic condition",20
+Female,53,"Consultation for respiratory health",25
+Male,45,"Routine health check",30
+Female,39,"Health maintenance follow-up",20
+Male,58,"Consultation for arthritis",25
+Female,33,"Routine wellness visit",30
+Male,41,"Consultation for back pain",20
+Female,60,"Consultation for chronic condition",25
+Male,46,"Consultation for respiratory health",30
+Female,38,"Routine health check",20
+Male,64,"Consultation for arthritis",25
+Female,35,"Follow-up for surgery",30
+Male,50,"Health maintenance visit",20
+Female,34,"Routine wellness check",25
+Male,56,"Consultation for back pain",30
+Female,44,"Consultation for chronic condition",20
+Male,49,"Consultation for respiratory health",25
+Female,37,"Routine health check",30
+Male,60,"Consultation for arthritis",20
+Female,31,"Health maintenance follow-up",25
+Male,45,"Routine wellness visit",30
+Female,38,"Consultation for back pain",20
+Male,41,"Consultation for chronic condition",25
+Female,53,"Follow-up for surgery",30
+Male,47,"Health maintenance visit",20
+Female,35,"Routine wellness check",25
+Male,54,"Consultation for respiratory health",30
+Female,40,"Consultation for arthritis",20
+Male,46,"Routine health check",25
+Female,56,"Consultation for back pain",30
+Male,31,"Consultation for chronic condition",20
+Female,60,"Health maintenance follow-up",25
+Male,33,"Routine wellness visit",30
+Female,50,"Consultation for respiratory health",20
+Male,45,"Consultation for arthritis",25
+Female,38,"Follow-up for surgery",30
+Male,62,"Health maintenance visit",20
+Female,44,"Routine wellness check",25
+Male,41,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,64,"Consultation for respiratory health",25
+Female,39,"Routine health check",30
+Male,31,"Health maintenance follow-up",20
+Female,52,"Consultation for arthritis",25
+Male,50,"Routine wellness visit",30
+Female,33,"Consultation for back pain",20
+Male,56,"Consultation for chronic condition",25
+Female,37,"Health maintenance follow-up",30
+Male,42,"Consultation for respiratory health",20
+Female,46,"Routine health check",25
+Male,38,"Consultation for arthritis",30
+Female,60,"Routine wellness check",20
+Male,49,"Follow-up for surgery",25
+Female,34,"Consultation for back pain",30
+Male,35,"Health maintenance visit",20
+Female,45,"Routine wellness check",25
+Male,47,"Consultation for chronic condition",30
+Female,31,"Consultation for respiratory health",20
+Male,58,"Routine health check",25
+Female,41,"Consultation for arthritis",30
+Male,53,"Routine wellness visit",20
+Female,44,"Consultation for back pain",25
+Male,50,"Health maintenance follow-up",30
+Female,39,"Consultation for chronic condition",20
+Male,37,"Consultation for respiratory health",25
+Female,64,"Routine health check",30
+Male,33,"Consultation for arthritis",20
+Female,46,"Follow-up for surgery",25
+Male,60,"Health maintenance visit",30
+Female,35,"Routine wellness check",20
+Male,47,"Consultation for back pain",25
+Female,56,"Consultation for chronic condition",30
+Male,38,"Routine health check",20
+Female,41,"Consultation for respiratory health",25
+Male,45,"Routine wellness visit",30
+Female,53,"Consultation for arthritis",20
+Male,31,"Follow-up for surgery",25
+Female,50,"Health maintenance follow-up",30
+Male,34,"Routine wellness check",20
+Female,60,"Consultation for back pain",25
+Male,46,"Consultation for chronic condition",30
+Female,40,"Routine health check",20
+Male,54,"Consultation for respiratory health",25
+Female,37,"Routine wellness visit",30
+Male,35,"Consultation for arthritis",20
+Female,44,"Health maintenance follow-up",25
+Male,49,"Routine wellness check",30
+Female,39,"Consultation for back pain",20
+Male,60,"Consultation for chronic condition",25
+Female,31,"Health maintenance follow-up",30
+Male,45,"Routine health check",20
+Female,56,"Consultation for respiratory health",25
+Male,47,"Consultation for arthritis",30
+Female,38,"Follow-up for surgery",20
+Male,64,"Health maintenance visit",25
+Female,50,"Routine wellness check",30
+Male,42,"Consultation for back pain",20
+Female,33,"Consultation for chronic condition",25
+Male,37,"Routine wellness visit",30
+Female,44,"Health maintenance follow-up",20
+Male,49,"Consultation for respiratory health",25
+Female,31,"Routine health check",30
+Male,54,"Consultation for arthritis",20
+Female,41,"Consultation for back pain",25
+Male,56,"Consultation for chronic condition",30
+Female,45,"Routine wellness visit",20
+Male,35,"Health maintenance follow-up",25
+Female,38,"Consultation for respiratory health",30
+Male,50,"Routine health check",20
+Female,60,"Consultation for arthritis",25
+Male,47,"Follow-up for surgery",30
+Female,44,"Routine wellness check",20
+Male,42,"Consultation for back pain",25
+Female,35,"Consultation for chronic condition",30
+Male,33,"Consultation for respiratory health",20
+Female,39,"Health maintenance follow-up",25
+Male,58,"Routine wellness visit",30
+Female,31,"Consultation for arthritis",20
+Male,46,"Consultation for back pain",25
+Female,53,"Consultation for chronic condition",30
+Male,37,"Routine wellness visit",20
+Female,50,"Health maintenance follow-up",25
+Male,41,"Consultation for respiratory health",30
+Female,34,"Routine health check",20
+Male,44,"Consultation for arthritis",25
+Female,60,"Follow-up for surgery",30
+Male,38,"Routine wellness check",20
+Female,49,"Consultation for back pain",25
+Male,35,"Consultation for chronic condition",30
+Female,45,"Consultation for respiratory health",20
+Male,31,"Health maintenance follow-up",25
+Female,56,"Routine wellness visit",30
+Male,33,"Consultation for arthritis",20
+Female,50,"Consultation for back pain",25
+Male,42,"Consultation for chronic condition",30
+Female,41,"Routine wellness visit",20
+Male,37,"Health maintenance follow-up",25
+Female,64,"Consultation for respiratory health",30
+Male,49,"Routine health check",20
+Female,38,"Consultation for arthritis",25
+Male,46,"Follow-up for surgery",30
+Female,44,"Routine wellness check",20
+Male,34,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,31,"Consultation for respiratory health",20
+Female,42,"Health maintenance follow-up",25
+Male,56,"Routine wellness visit",30
+Female,45,"Consultation for arthritis",20
+Male,60,"Consultation for back pain",25
+Female,39,"Consultation for chronic condition",30
+Male,53,"Routine wellness visit",20
+Female,31,"Health maintenance follow-up",25
+Male,47,"Consultation for respiratory health",30
+Female,44,"Routine health check",20
+Male,33,"Consultation for arthritis",25
+Female,41,"Consultation for back pain",30
+Male,38,"Routine wellness check",20
+Female,35,"Consultation for chronic condition",25
+Male,45,"Consultation for respiratory health",30
+Female,50,"Routine wellness visit",20
+Male,42,"Health maintenance follow-up",25
+Female,49,"Consultation for arthritis",30
+Male,37,"Routine health check",20
+Female,60,"Follow-up for surgery",25
+Male,34,"Routine wellness check",30
+Female,56,"Consultation for back pain",20
+Male,39,"Consultation for chronic condition",25
+Female,46,"Consultation for respiratory health",30
+Male,31,"Health maintenance follow-up",20
+Female,33,"Routine wellness visit",25
+Male,50,"Consultation for arthritis",30
+Female,44,"Routine health check",20
+Male,47,"Consultation for back pain",25
+Female,35,"Consultation for chronic condition",30
+Male,45,"Consultation for respiratory health",20
+Female,64,"Health maintenance follow-up",25
+Male,60,"Routine wellness visit",30
+Female,42,"Consultation for arthritis",20
+Male,38,"Follow-up for surgery",25
+Female,31,"Routine wellness check",30
+Male,49,"Consultation for back pain",20
+Female,41,"Consultation for chronic condition",25
+Male,35,"Consultation for respiratory health",30
+Female,53,"Routine wellness visit",20
+Male,56,"Health maintenance follow-up",25
+Female,34,"Consultation for arthritis",30
+Male,44,"Routine health check",20
+Female,39,"Consultation for back pain",25
+Male,47,"Consultation for chronic condition",30
+Female,45,"Routine wellness visit",20
+Male,50,"Health maintenance follow-up",25
+Female,33,"Consultation for respiratory health",30
+Male,31,"Routine wellness check",20
+Female,38,"Consultation for arthritis",25
+Male,41,"Consultation for back pain",30
+Female,60,"Routine health check",20
+Male,42,"Follow-up for surgery",25
+Female,49,"Consultation for chronic condition",30
+Male,37,"Routine wellness visit",20
+Female,46,"Consultation for respiratory health",25
+Male,35,"Consultation for arthritis",30
+Female,44,"Routine wellness check",20
+Male,50,"Consultation for back pain",25
+Female,45,"Consultation for chronic condition",30
+Male,56,"Health maintenance follow-up",20
+Female,31,"Routine wellness visit",25
+Male,47,"Consultation for respiratory health",30
+Female,33,"Routine health check",20
+Male,34,"Consultation for arthritis",25
+Female,38,"Consultation for back pain",30
+Male,64,"Routine wellness check",20
+Female,60,"Follow-up for surgery",25
+Male,42,"Consultation for chronic condition",30
+Female,35,"Consultation for respiratory health",20
+Male,41,"Health maintenance follow-up",25
+Female,37,"Routine wellness visit",30
+Male,53,"Consultation for arthritis",20
+Female,45,"Routine health check",25
+Male,56,"Consultation for back pain",30
+Female,31,"Consultation for chronic condition",20
+Male,46,"Health maintenance follow-up",25
+Female,40,"Routine wellness visit",30
+Male,38,"Consultation for respiratory health",20
+Female,49,"Consultation for arthritis",25
+Male,44,"Follow-up for surgery",30
+Female,33,"Routine wellness check",20
+Male,50,"Consultation for back pain",25
+Female,34,"Consultation for chronic condition",30
+Male,41,"Routine wellness visit",20
+Female,45,"Consultation for respiratory health",25
+Male,35,"Routine health check",30
+Female,31,"Consultation for arthritis",20
+Male,64,"Health maintenance follow-up",25
+Female,46,"Routine wellness visit",30
+Male,42,"Consultation for back pain",20
+Female,56,"Consultation for chronic condition",25
+Male,38,"Follow-up for surgery",30
+Female,37,"Consultation for respiratory health",20
+Male,49,"Consultation for arthritis",25
+Female,33,"Routine wellness check",30
+Male,60,"Consultation for back pain",20
+Female,40,"Consultation for chronic condition",25
+Male,31,"Routine wellness visit",30
+Female,47,"Health maintenance follow-up",20
+Male,44,"Consultation for respiratory health",25
+Female,35,"Routine health check",30
+Male,50,"Consultation for arthritis",20
+Female,39,"Consultation for back pain",25
+Male,45,"Consultation for chronic condition",30
+Female,34,"Routine wellness visit",20
+Male,56,"Health maintenance follow-up",25
+Female,41,"Consultation for respiratory health",30
+Male,38,"Routine health check",20
+Female,33,"Follow-up for surgery",25
+Male,31,"Consultation for arthritis",30
+Female,60,"Routine wellness visit",20
+Male,46,"Consultation for back pain",25
+Female,53,"Consultation for chronic condition",30
+Male,44,"Routine wellness check",20
+Female,35,"Health maintenance follow-up",25
+Male,49,"Consultation for respiratory health",30
+Female,45,"Consultation for arthritis",20
+Male,47,"Routine health check",25
+Female,33,"Consultation for back pain",30
+Male,37,"Consultation for chronic condition",20
+Female,56,"Routine wellness visit",25
+Male,60,"Health maintenance follow-up",30
+Female,38,"Consultation for respiratory health",20
+Male,42,"Consultation for arthritis",25
+Female,35,"Follow-up for surgery",30
+Male,31,"Routine wellness check",20
+Female,45,"Consultation for back pain",25
+Male,49,"Consultation for chronic condition",30
+Female,37,"Consultation for respiratory health",20
+Male,50,"Health maintenance follow-up",25
+Female,39,"Routine wellness visit",30
+Male,46,"Consultation for arthritis",20
+Female,44,"Consultation for back pain",25
+Male,56,"Routine health check",30
+Female,35,"Consultation for chronic condition",20
+Male,64,"Routine wellness visit",25
+Female,31,"Consultation for respiratory health",30
+Male,42,"Consultation for arthritis",20
+Female,41,"Health maintenance follow-up",25
+Male,38,"Routine wellness check",30
+Female,47,"Consultation for back pain",20
+Male,45,"Consultation for chronic condition",25
+Female,50,"Consultation for respiratory health",30
+Male,33,"Routine health check",20
+Female,49,"Consultation for arthritis",25
+Male,60,"Follow-up for surgery",30
+Female,34,"Routine wellness visit",20
+Male,31,"Consultation for back pain",25
+Female,53,"Consultation for chronic condition",30
+Male,37,"Consultation for respiratory health",20
+Female,45,"Health maintenance follow-up",25
+Male,35,"Routine wellness check",30
+Female,56,"Consultation for arthritis",20
+Male,38,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,46,"Routine health check",20
+Female,41,"Consultation for respiratory health",25
+Male,33,"Routine wellness visit",30
+Female,47,"Follow-up for surgery",20
+Male,45,"Consultation for arthritis",25
+Female,31,"Consultation for back pain",30
+Male,50,"Health maintenance follow-up",20
+Female,64,"Routine health check",25
+Male,42,"Consultation for chronic condition",30
+Female,39,"Consultation for respiratory health",20
+Male,46,"Routine wellness visit",25
+Female,34,"Consultation for arthritis",30
+Male,53,"Health maintenance follow-up",20
+Female,33,"Consultation for back pain",25
+Male,38,"Consultation for chronic condition",30
+Female,31,"Routine wellness check",20
+Male,50,"Consultation for respiratory health",25
+Female,60,"Consultation for arthritis",30
+Male,37,"Follow-up for surgery",20
+Female,42,"Routine wellness visit",25
+Male,35,"Consultation for back pain",30
+Female,56,"Consultation for chronic condition",20
+Male,47,"Health maintenance follow-up",25
+Female,44,"Consultation for respiratory health",30
+Male,49,"Routine wellness check",20
+Female,33,"Consultation for arthritis",25
+Male,60,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,34,"Routine wellness visit",25
+Female,31,"Consultation for respiratory health",30
+Male,50,"Health maintenance follow-up",20
+Female,46,"Consultation for arthritis",25
+Male,45,"Routine health check",30
+Female,53,"Consultation for back pain",20
+Male,41,"Consultation for chronic condition",25
+Female,31,"Routine wellness visit",30
+Male,35,"Health maintenance follow-up",20
+Female,47,"Consultation for respiratory health",25
+Male,38,"Consultation for arthritis",30
+Female,50,"Routine health check",20
+Male,49,"Consultation for back pain",25
+Female,45,"Follow-up for surgery",30
+Male,44,"Routine wellness visit",20
+Female,39,"Consultation for chronic condition",25
+Male,35,"Consultation for respiratory health",30
+Female,33,"Routine wellness check",20
+Male,46,"Consultation for arthritis",25
+Female,56,"Consultation for back pain",30
+Male,31,"Health maintenance follow-up",20
+Female,50,"Routine health check",25
+Male,42,"Consultation for chronic condition",30
+Female,37,"Consultation for respiratory health",20
+Male,35,"Routine wellness visit",25
+Female,38,"Consultation for arthritis",30
+Male,31,"Follow-up for surgery",20
+Female,44,"Routine wellness check",25
+Male,53,"Consultation for back pain",30
+Female,46,"Health maintenance follow-up",20
+Male,41,"Consultation for chronic condition",25
+Female,45,"Consultation for respiratory health",30
+Male,34,"Routine health check",20
+Female,31,"Consultation for arthritis",25
+Male,50,"Consultation for back pain",30
+Female,64,"Health maintenance follow-up",20
+Male,38,"Routine wellness visit",25
+Female,35,"Consultation for chronic condition",30
+Male,31,"Consultation for respiratory health",20
+Female,45,"Routine health check",25
+Male,33,"Consultation for arthritis",30
+Female,60,"Consultation for back pain",20
+Male,42,"Health maintenance follow-up",25
+Female,44,"Routine wellness visit",30
+Male,56,"Consultation for chronic condition",20
+Female,41,"Consultation for respiratory health",25
+Male,50,"Consultation for arthritis",30
+Female,38,"Routine health check",20
+Male,47,"Consultation for back pain",25
+Female,35,"Health maintenance follow-up",30
+Male,31,"Routine wellness visit",20
+Female,53,"Consultation for chronic condition",25
+Male,60,"Consultation for respiratory health",30
+Female,33,"Consultation for arthritis",20
+Male,41,"Routine health check",25
+Female,35,"Consultation for back pain",30
+Male,50,"Follow-up for surgery",20
+Female,38,"Routine wellness visit",25
+Male,31,"Consultation for chronic condition",30
+Female,56,"Health maintenance follow-up",20
+Male,47,"Consultation for respiratory health",25
+Female,37,"Consultation for arthritis",30
+Male,60,"Routine health check",20
+Female,34,"Consultation for back pain",25
+Male,35,"Consultation for chronic condition",30
+Female,50,"Routine wellness visit",20
+Male,31,"Health maintenance follow-up",25
+Female,45,"Consultation for respiratory health",30
+Male,46,"Routine health check",20
+Female,38,"Consultation for arthritis",25
+Male,35,"Consultation for back pain",30
+Female,50,"Follow-up for surgery",20
+Male,53,"Routine wellness visit",25
+Female,31,"Consultation for chronic condition",30
+Male,64,"Health maintenance follow-up",20
+Female,38,"Consultation for respiratory health",25
+Male,35,"Routine health check",30
+Female,46,"Consultation for arthritis",20
+Male,44,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,31,"Routine wellness visit",20
+Female,45,"Health maintenance follow-up",25
+Male,60,"Consultation for respiratory health",30
+Female,34,"Consultation for arthritis",20
+Male,53,"Consultation for back pain",25
+Female,39,"Routine health check",30
+Male,37,"Follow-up for surgery",20
+Female,31,"Routine wellness visit",25
+Male,35,"Consultation for chronic condition",30
+Female,46,"Health maintenance follow-up",20
+Male,41,"Consultation for respiratory health",25
+Female,45,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,60,"Consultation for back pain",25
+Male,34,"Health maintenance follow-up",30
+Female,38,"Routine wellness visit",20
+Male,31,"Consultation for chronic condition",25
+Female,56,"Consultation for respiratory health",30
+Male,50,"Consultation for arthritis",20
+Female,41,"Routine health check",25
+Male,33,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,31,"Routine wellness visit",25
+Female,45,"Follow-up for surgery",30
+Male,53,"Health maintenance follow-up",20
+Female,38,"Consultation for respiratory health",25
+Male,35,"Consultation for arthritis",30
+Female,46,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,44,"Consultation for chronic condition",30
+Male,50,"Routine wellness visit",20
+Female,33,"Health maintenance follow-up",25
+Male,34,"Consultation for respiratory health",30
+Female,56,"Consultation for arthritis",20
+Male,31,"Routine health check",25
+Female,41,"Consultation for back pain",30
+Male,35,"Consultation for chronic condition",20
+Female,38,"Routine wellness visit",25
+Male,50,"Health maintenance follow-up",30
+Female,53,"Consultation for respiratory health",20
+Male,31,"Consultation for arthritis",25
+Female,45,"Routine health check",30
+Male,33,"Consultation for back pain",20
+Female,44,"Follow-up for surgery",25
+Male,50,"Routine wellness visit",30
+Female,34,"Health maintenance follow-up",20
+Male,38,"Consultation for respiratory health",25
+Female,56,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,35,"Consultation for back pain",25
+Male,60,"Consultation for chronic condition",30
+Female,45,"Routine wellness visit",20
+Male,50,"Health maintenance follow-up",25
+Female,41,"Consultation for respiratory health",30
+Male,31,"Consultation for arthritis",20
+Female,38,"Routine health check",25
+Male,53,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,31,"Routine wellness visit",25
+Female,56,"Health maintenance follow-up",30
+Male,50,"Consultation for respiratory health",20
+Female,46,"Consultation for arthritis",25
+Male,41,"Routine health check",30
+Female,34,"Consultation for back pain",20
+Male,38,"Follow-up for surgery",25
+Female,31,"Routine wellness visit",30
+Male,50,"Health maintenance follow-up",20
+Female,45,"Consultation for respiratory health",25
+Male,44,"Consultation for arthritis",30
+Female,38,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,46,"Consultation for chronic condition",30
+Male,50,"Routine wellness visit",20
+Female,33,"Health maintenance follow-up",25
+Male,35,"Consultation for respiratory health",30
+Female,45,"Consultation for arthritis",20
+Male,31,"Routine health check",25
+Female,50,"Consultation for back pain",30
+Male,38,"Health maintenance follow-up",20
+Female,31,"Routine wellness visit",25
+Male,56,"Consultation for respiratory health",30
+Female,53,"Consultation for arthritis",20
+Male,35,"Follow-up for surgery",25
+Female,41,"Routine health check",30
+Male,46,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,50,"Routine wellness visit",30
+Female,33,"Health maintenance follow-up",20
+Male,44,"Consultation for respiratory health",25
+Female,35,"Consultation for arthritis",30
+Male,60,"Routine health check",20
+Female,38,"Consultation for back pain",25
+Male,31,"Follow-up for surgery",30
+Female,45,"Routine wellness visit",20
+Male,50,"Health maintenance follow-up",25
+Female,33,"Consultation for respiratory health",30
+Male,31,"Consultation for arthritis",20
+Female,34,"Routine health check",25
+Male,41,"Consultation for back pain",30
+Female,38,"Consultation for chronic condition",20
+Male,56,"Routine wellness visit",25
+Female,50,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,44,"Consultation for arthritis",25
+Male,35,"Routine health check",30
+Female,41,"Consultation for back pain",20
+Male,31,"Consultation for chronic condition",25
+Female,50,"Routine wellness visit",30
+Male,45,"Health maintenance follow-up",20
+Female,38,"Consultation for respiratory health",25
+Male,31,"Consultation for arthritis",30
+Female,34,"Routine health check",20
+Male,60,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,38,"Routine wellness visit",20
+Female,41,"Health maintenance follow-up",25
+Male,31,"Consultation for respiratory health",30
+Female,46,"Consultation for arthritis",20
+Male,50,"Routine health check",25
+Female,44,"Consultation for back pain",30
+Male,31,"Consultation for chronic condition",20
+Female,56,"Routine wellness visit",25
+Male,41,"Health maintenance follow-up",30
+Female,34,"Consultation for respiratory health",20
+Male,33,"Consultation for arthritis",25
+Female,38,"Routine health check",30
+Male,46,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,50,"Routine wellness visit",30
+Female,45,"Health maintenance follow-up",20
+Male,56,"Consultation for respiratory health",25
+Female,41,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,38,"Consultation for back pain",25
+Male,50,"Follow-up for surgery",30
+Female,33,"Routine wellness visit",20
+Male,35,"Health maintenance follow-up",25
+Female,31,"Consultation for respiratory health",30
+Male,44,"Consultation for arthritis",20
+Female,41,"Routine health check",25
+Male,53,"Consultation for back pain",30
+Female,31,"Consultation for chronic condition",20
+Male,38,"Routine wellness visit",25
+Female,50,"Health maintenance follow-up",30
+Male,46,"Consultation for respiratory health",20
+Female,34,"Consultation for arthritis",25
+Male,35,"Routine health check",30
+Female,38,"Consultation for back pain",20
+Male,50,"Consultation for chronic condition",25
+Female,31,"Routine wellness visit",30
+Male,60,"Health maintenance follow-up",20
+Female,41,"Consultation for respiratory health",25
+Male,37,"Consultation for arthritis",30
+Female,33,"Routine health check",20
+Male,35,"Consultation for back pain",25
+Female,44,"Follow-up for surgery",30
+Male,31,"Routine wellness visit",20
+Female,50,"Health maintenance follow-up",25
+Male,38,"Consultation for respiratory health",30
+Female,31,"Consultation for arthritis",20
+Male,46,"Routine health check",25
+Female,41,"Consultation for back pain",30
+Male,35,"Consultation for chronic condition",20
+Female,60,"Routine wellness visit",25
+Male,44,"Health maintenance follow-up",30
+Female,50,"Consultation for respiratory health",20
+Male,37,"Consultation for arthritis",25
+Female,31,"Routine health check",30
+Male,38,"Consultation for back pain",20
+Female,41,"Follow-up for surgery",25
+Male,56,"Routine wellness visit",30
+Female,34,"Consultation for chronic condition",20
+Male,50,"Health maintenance follow-up",25
+Female,31,"Consultation for respiratory health",30
+Male,38,"Consultation for arthritis",20
+Female,45,"Routine health check",25
+Male,35,"Consultation for back pain",30
+Female,50,"Consultation for chronic condition",20
+Male,31,"Routine wellness visit",25
+Female,38,"Health maintenance follow-up",30
+Male,60,"Consultation for respiratory health",20
+Female,41,"Consultation for arthritis",25
+Male,31,"Routine health check",30
+Female,33,"Consultation for back pain",20
+Male,46,"Follow-up for surgery",25
+Female,50,"Routine wellness visit",30
+Male,34,"Health maintenance follow-up",20
+Female,35,"Consultation for respiratory health",25
+Male,31,"Consultation for arthritis",30
+Female,50,"Routine health check",20
+Male,44,"Consultation for back pain",25
+Female,41,"Consultation for chronic condition",30
+Male,31,"Routine wellness visit",20
+Female,45,"Health maintenance follow-up",25
+Male,38,"Consultation for respiratory health",30
+Female,31,"Routine health check",20
+Male,50,"Consultation for arthritis",25
+Female,60,"Consultation for back pain",30
+Male,37,"Follow-up for surgery",20
+Female,41,"Routine wellness visit",25
+Male,38,"Health maintenance follow-up",30
+Female,31,"Consultation for respiratory health",20
+Male,35,"Consultation for arthritis",25
+Female,50,"Routine health check",30
+Male,44,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,56,"Routine wellness visit",30
+Female,41,"Health maintenance follow-up",20
+Male,33,"Consultation for respiratory health",25
+Female,35,"Consultation for arthritis",30
+Male,50,"Routine health check",20
+Female,31,"Follow-up for surgery",25
+Male,45,"Routine wellness visit",30
+Female,41,"Consultation for back pain",20
+Male,37,"Health maintenance follow-up",25
+Female,34,"Consultation for chronic condition",30
+Male,50,"Consultation for respiratory health",20
+Female,35,"Routine health check",25
+Male,31,"Consultation for arthritis",30
+Female,38,"Consultation for back pain",20
+Male,60,"Health maintenance follow-up",25
+Female,46,"Routine wellness visit",30
+Male,50,"Consultation for chronic condition",20
+Female,31,"Consultation for respiratory health",25
+Male,41,"Routine health check",30
+Female,33,"Consultation for arthritis",20
+Male,44,"Follow-up for surgery",25
+Female,50,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,38,"Consultation for respiratory health",25
+Male,46,"Consultation for arthritis",30
+Female,34,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,41,"Routine wellness visit",20
+Female,35,"Health maintenance follow-up",25
+Male,38,"Consultation for respiratory health",30
+Female,45,"Routine health check",20
+Male,60,"Consultation for arthritis",25
+Female,33,"Consultation for back pain",30
+Male,31,"Follow-up for surgery",20
+Female,50,"Routine wellness visit",25
+Male,37,"Health maintenance follow-up",30
+Female,34,"Consultation for respiratory health",20
+Male,46,"Consultation for arthritis",25
+Female,31,"Routine health check",30
+Male,38,"Consultation for back pain",20
+Female,41,"Consultation for chronic condition",25
+Male,35,"Routine wellness visit",30
+Female,50,"Health maintenance follow-up",20
+Male,44,"Consultation for respiratory health",25
+Female,45,"Consultation for arthritis",30
+Male,33,"Routine health check",20
+Female,31,"Follow-up for surgery",25
+Male,60,"Routine wellness visit",30
+Female,46,"Consultation for back pain",20
+Male,38,"Health maintenance follow-up",25
+Female,35,"Consultation for chronic condition",30
+Male,31,"Consultation for respiratory health",20
+Female,41,"Routine health check",25
+Male,50,"Consultation for arthritis",30
+Female,37,"Consultation for back pain",20
+Male,56,"Health maintenance follow-up",25
+Female,34,"Routine wellness visit",30
+Male,31,"Consultation for chronic condition",20
+Female,33,"Consultation for respiratory health",25
+Male,50,"Consultation for arthritis",30
+Female,45,"Routine health check",20
+Male,44,"Follow-up for surgery",25
+Female,38,"Routine wellness visit",30
+Male,35,"Health maintenance follow-up",20
+Female,50,"Consultation for respiratory health",25
+Male,37,"Consultation for arthritis",30
+Female,31,"Routine health check",20
+Male,41,"Consultation for back pain",25
+Female,34,"Consultation for chronic condition",30
+Male,60,"Routine wellness visit",20
+Female,33,"Health maintenance follow-up",25
+Male,45,"Consultation for respiratory health",30
+Female,31,"Routine health check",20
+Male,50,"Consultation for arthritis",25
+Female,46,"Consultation for back pain",30
+Male,31,"Follow-up for surgery",20
+Female,38,"Routine wellness visit",25
+Male,35,"Health maintenance follow-up",30
+Female,50,"Consultation for respiratory health",20
+Male,44,"Consultation for arthritis",25
+Female,41,"Routine health check",30
+Male,33,"Consultation for back pain",20
+Female,34,"Consultation for chronic condition",25
+Male,50,"Routine wellness visit",30
+Female,31,"Health maintenance follow-up",20
+Male,60,"Consultation for respiratory health",25
+Female,35,"Consultation for arthritis",30
+Male,37,"Routine health check",20
+Female,50,"Consultation for back pain",25
+Male,31,"Follow-up for surgery",30
+Female,41,"Routine wellness visit",20
+Male,45,"Health maintenance follow-up",25
+Female,31,"Consultation for respiratory health",30
+Male,46,"Consultation for arthritis",20
+Female,50,"Routine health check",25
+Male,38,"Consultation for back pain",30
+Female,34,"Consultation for chronic condition",20
+Male,41,"Routine wellness visit",25
+Female,60,"Health maintenance follow-up",30
+Male,33,"Consultation for respiratory health",20
+Female,31,"Consultation for arthritis",25
+Male,44,"Routine health check",30
+Female,50,"Consultation for back pain",20
+Male,35,"Consultation for chronic condition",25
+Female,38,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,46,"Consultation for respiratory health",25
+Male,37,"Consultation for arthritis",30
+Female,34,"Routine health check",20
+Male,50,"Follow-up for surgery",25
+Female,31,"Routine wellness visit",30
+Male,33,"Health maintenance follow-up",20
+Female,45,"Consultation for respiratory health",25
+Male,41,"Consultation for arthritis",30
+Female,38,"Routine health check",20
+Male,35,"Consultation for back pain",25
+Female,50,"Consultation for chronic condition",30
+Male,31,"Routine wellness visit",20
+Female,46,"Health maintenance follow-up",25
+Male,60,"Consultation for respiratory health",30
+Female,31,"Consultation for arthritis",20
+Male,33,"Routine health check",25
+Female,50,"Consultation for back pain",30
+Male,34,"Follow-up for surgery",20
+Female,41,"Routine wellness visit",25
+Male,37,"Health maintenance follow-up",30
+Female,35,"Consultation for respiratory health",20
+Male,50,"Consultation for arthritis",25
+Female,44,"Routine health check",30
+Male,31,"Consultation for back pain",20
+Female,38,"Consultation for chronic condition",25
+Male,31,"Routine wellness visit",30
+Female,45,"Health maintenance follow-up",20
+Male,60,"Consultation for respiratory health",25
+Female,35,"Consultation for arthritis",30
+Male,34,"Routine health check",20
+Female,50,"Consultation for back pain",25
+Male,41,"Follow-up for surgery",30
+Female,31,"Routine wellness visit",20
+Male,46,"Health maintenance follow-up",25
+Female,38,"Consultation for respiratory health",30
+Male,33,"Consultation for arthritis",20
+Female,44,"Routine health check",25
+Male,50,"Consultation for back pain",30
+Female,31,"Consultation for chronic condition",20
+Male,60,"Routine wellness visit",25
+Female,41,"Health maintenance follow-up",30
+Male,35,"Consultation for respiratory health",20
+Female,33,"Consultation for arthritis",25
+Male,38,"Routine health check",30
+Female,31,"Follow-up for surgery",20
+Male,46,"Routine wellness visit",25
+Female,50,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,44,"Consultation for arthritis",25
+Male,35,"Routine health check",30
+Female,38,"Consultation for back pain",20
+Male,33,"Consultation for chronic condition",25
+Female,60,"Routine wellness visit",30
+Male,41,"Health maintenance follow-up",20
+Female,31,"Consultation for respiratory health",25
+Male,50,"Consultation for arthritis",30
+Female,46,"Routine health check",20
+Male,34,"Consultation for back pain",25
+Female,31,"Follow-up for surgery",30
+Male,45,"Routine wellness visit",20
+Female,38,"Health maintenance follow-up",25
+Male,35,"Consultation for respiratory health",30
+Female,31,"Consultation for arthritis",20
+Male,50,"Routine health check",25
+Female,44,"Consultation for back pain",30
+Male,60,"Consultation for chronic condition",20
+Female,46,"Routine wellness visit",25
+Male,35,"Health maintenance follow-up",30
+Female,38,"Consultation for respiratory health",20
+Male,41,"Consultation for arthritis",25
+Female,31,"Routine health check",30
+Male,33,"Consultation for back pain",20
+Female,34,"Consultation for chronic condition",25
+Male,50,"Routine wellness visit",30
+Female,31,"Health maintenance follow-up",20
+Male,60,"Consultation for respiratory health",25
+Female,46,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,44,"Follow-up for surgery",25
+Male,41,"Routine wellness visit",30
+Female,50,"Health maintenance follow-up",20
+Male,35,"Consultation for respiratory health",25
+Female,38,"Consultation for arthritis",30
+Male,34,"Routine health check",20
+Female,31,"Consultation for back pain",25
+Male,50,"Consultation for chronic condition",30
+Female,33,"Routine wellness visit",20
+Male,38,"Health maintenance follow-up",25
+Female,46,"Consultation for respiratory health",30
+Male,31,"Consultation for arthritis",20
+Female,41,"Routine health check",25
+Male,50,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,60,"Routine wellness visit",25
+Female,34,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,46,"Consultation for arthritis",25
+Male,50,"Routine health check",30
+Female,31,"Follow-up for surgery",20
+Male,38,"Routine wellness visit",25
+Female,44,"Health maintenance follow-up",30
+Male,35,"Consultation for respiratory health",20
+Female,41,"Consultation for arthritis",25
+Male,33,"Routine health check",30
+Female,50,"Consultation for back pain",20
+Male,31,"Consultation for chronic condition",25
+Female,34,"Routine wellness visit",30
+Male,38,"Health maintenance follow-up",20
+Female,31,"Consultation for respiratory health",25
+Male,46,"Consultation for arthritis",30
+Female,41,"Routine health check",20
+Male,50,"Consultation for back pain",25
+Female,35,"Follow-up for surgery",30
+Male,33,"Routine wellness visit",20
+Female,38,"Health maintenance follow-up",25
+Male,31,"Consultation for respiratory health",30
+Female,60,"Consultation for arthritis",20
+Male,46,"Routine health check",25
+Female,34,"Consultation for back pain",30
+Male,50,"Consultation for chronic condition",20
+Female,31,"Routine wellness visit",25
+Male,45,"Health maintenance follow-up",30
+Female,33,"Consultation for respiratory health",20
+Male,38,"Consultation for arthritis",25
+Female,41,"Routine health check",30
+Male,31,"Follow-up for surgery",20
+Female,35,"Routine wellness visit",25
+Male,46,"Health maintenance follow-up",30
+Female,50,"Consultation for respiratory health",20
+Male,34,"Consultation for arthritis",25
+Female,33,"Routine health check",30
+Male,41,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,38,"Routine wellness visit",30
+Female,46,"Health maintenance follow-up",20
+Male,60,"Consultation for respiratory health",25
+Female,34,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,35,"Follow-up for surgery",25
+Male,38,"Routine wellness visit",30
+Female,31,"Health maintenance follow-up",20
+Male,50,"Consultation for respiratory health",25
+Female,45,"Consultation for arthritis",30
+Male,41,"Routine health check",20
+Female,50,"Consultation for back pain",25
+Male,33,"Consultation for chronic condition",30
+Female,31,"Routine wellness visit",20
+Male,56,"Health maintenance follow-up",25
+Female,38,"Consultation for respiratory health",30
+Male,34,"Consultation for arthritis",20
+Female,45,"Routine health check",25
+Male,50,"Consultation for back pain",30
+Female,31,"Follow-up for surgery",20
+Male,41,"Routine wellness visit",25
+Female,35,"Health maintenance follow-up",30
+Male,60,"Consultation for respiratory health",20
+Female,31,"Consultation for arthritis",25
+Male,50,"Routine health check",30
+Female,38,"Consultation for back pain",20
+Male,35,"Consultation for chronic condition",25
+Female,31,"Routine wellness visit",30
+Male,46,"Health maintenance follow-up",20
+Female,33,"Consultation for respiratory health",25
+Male,50,"Consultation for arthritis",30
+Female,34,"Routine health check",20
+Male,41,"Follow-up for surgery",25
+Female,38,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,50,"Consultation for respiratory health",25
+Male,45,"Consultation for arthritis",30
+Female,33,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,35,"Consultation for chronic condition",30
+Male,34,"Routine wellness visit",20
+Female,41,"Health maintenance follow-up",25
+Male,38,"Consultation for respiratory health",30
+Female,50,"Consultation for arthritis",20
+Male,31,"Routine health check",25
+Female,46,"Consultation for back pain",30
+Male,35,"Consultation for chronic condition",20
+Female,38,"Routine wellness visit",25
+Male,31,"Health maintenance follow-up",30
+Female,50,"Consultation for respiratory health",20
+Male,45,"Consultation for arthritis",25
+Female,31,"Routine health check",30
+Male,60,"Consultation for back pain",20
+Female,41,"Follow-up for surgery",25
+Male,38,"Routine wellness visit",30
+Female,33,"Health maintenance follow-up",20
+Male,31,"Consultation for respiratory health",25
+Female,50,"Consultation for arthritis",30
+Male,46,"Routine health check",20
+Female,35,"Consultation for back pain",25
+Male,31,"Consultation for chronic condition",30
+Female,44,"Routine wellness visit",20
+Male,50,"Health maintenance follow-up",25
+Female,38,"Consultation for respiratory health",30
+Male,41,"Consultation for arthritis",20
+Female,34,"Routine health check",25
+Male,31,"Follow-up for surgery",30
+Female,31,"Routine wellness visit",20
+Male,46,"Health maintenance follow-up",25
+Female,45,"Consultation for respiratory health",30
+Male,38,"Consultation for arthritis",20
+Female,31,"Routine health check",25
+Male,50,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,56,"Routine wellness visit",25
+Female,33,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,50,"Consultation for arthritis",25
+Male,46,"Routine health check",30
+Female,35,"Follow-up for surgery",20
+Male,41,"Routine wellness visit",25
+Female,34,"Health maintenance follow-up",30
+Male,38,"Consultation for respiratory health",20
+Female,33,"Consultation for arthritis",25
+Male,31,"Routine health check",30
+Female,50,"Consultation for back pain",20
+Male,31,"Consultation for chronic condition",25
+Female,35,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,44,"Consultation for respiratory health",25
+Male,38,"Consultation for arthritis",30
+Female,33,"Routine health check",20
+Male,46,"Follow-up for surgery",25
+Female,34,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,50,"Consultation for respiratory health",25
+Male,35,"Consultation for arthritis",30
+Female,38,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,31,"Consultation for chronic condition",30
+Male,50,"Routine wellness visit",20
+Female,41,"Health maintenance follow-up",25
+Male,45,"Consultation for respiratory health",30
+Female,33,"Consultation for arthritis",20
+Male,38,"Routine health check",25
+Female,50,"Consultation for back pain",30
+Male,34,"Follow-up for surgery",20
+Female,31,"Routine wellness visit",25
+Male,56,"Health maintenance follow-up",30
+Female,35,"Consultation for respiratory health",20
+Male,31,"Consultation for arthritis",25
+Female,44,"Routine health check",30
+Male,38,"Consultation for back pain",20
+Female,46,"Consultation for chronic condition",25
+Male,50,"Routine wellness visit",30
+Female,33,"Health maintenance follow-up",20
+Male,31,"Consultation for respiratory health",25
+Female,50,"Consultation for arthritis",30
+Male,34,"Routine health check",20
+Female,41,"Consultation for back pain",25
+Male,31,"Follow-up for surgery",30
+Female,31,"Routine wellness visit",20
+Male,38,"Health maintenance follow-up",25
+Female,45,"Consultation for respiratory health",30
+Male,50,"Consultation for arthritis",20
+Female,33,"Routine health check",25
+Male,46,"Consultation for back pain",30
+Female,35,"Consultation for chronic condition",20
+Male,38,"Routine wellness visit",25
+Female,50,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,41,"Consultation for arthritis",25
+Male,34,"Routine health check",30
+Female,33,"Consultation for back pain",20
+Male,60,"Follow-up for surgery",25
+Female,46,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,38,"Consultation for respiratory health",25
+Male,45,"Consultation for arthritis",30
+Female,50,"Routine health check",20
+Male,41,"Consultation for back pain",25
+Female,34,"Consultation for chronic condition",30
+Male,31,"Routine wellness visit",20
+Female,46,"Health maintenance follow-up",25
+Male,38,"Consultation for respiratory health",30
+Female,50,"Consultation for arthritis",20
+Male,44,"Routine health check",25
+Female,35,"Follow-up for surgery",30
+Male,31,"Routine wellness visit",20
+Female,33,"Health maintenance follow-up",25
+Male,50,"Consultation for respiratory health",30
+Female,34,"Consultation for arthritis",20
+Male,45,"Routine health check",25
+Female,41,"Consultation for back pain",30
+Male,31,"Consultation for chronic condition",20
+Female,38,"Routine wellness visit",25
+Male,31,"Health maintenance follow-up",30
+Female,56,"Consultation for respiratory health",20
+Male,46,"Consultation for arthritis",25
+Female,33,"Routine health check",30
+Male,50,"Consultation for back pain",20
+Female,34,"Follow-up for surgery",25
+Male,31,"Routine wellness visit",30
+Female,38,"Health maintenance follow-up",20
+Male,44,"Consultation for respiratory health",25
+Female,35,"Consultation for arthritis",30
+Male,31,"Routine health check",20
+Female,41,"Consultation for back pain",25
+Male,50,"Consultation for chronic condition",30
+Female,31,"Routine wellness visit",20
+Male,46,"Health maintenance follow-up",25
+Female,35,"Consultation for respiratory health",30
+Male,33,"Consultation for arthritis",20
+Female,44,"Routine health check",25
+Male,31,"Follow-up for surgery",30
+Female,41,"Routine wellness visit",20
+Male,31,"Health maintenance follow-up",25
+Female,50,"Consultation for respiratory health",30
+Male,38,"Consultation for arthritis",20
+Female,35,"Routine health check",25
+Male,34,"Consultation for back pain",30
+Female,46,"Consultation for chronic condition",20
+Male,31,"Routine wellness visit",25
+Female,41,"Health maintenance follow-up",30
+Male,38,"Consultation for respiratory health",20
+Female,50,"Consultation for arthritis",25
+Male,33,"Routine health check",30
+Female,31,"Consultation for back pain",20
+Male,50,"Consultation for chronic condition",25
+Female,31,"Follow-up for surgery",30
+Male,46,"Routine wellness visit",20
+Female,34,"Health maintenance follow-up",25
+Male,45,"Consultation for respiratory health",30
+Female,41,"Consultation for arthritis",20
+Male,50,"Routine health check",25
+Female,31,"Consultation for back pain",30
+Male,33,"Consultation for chronic condition",20
+Female,31,"Routine wellness visit",25
+Male,50,"Health maintenance follow-up",30
+Female,46,"Consultation for respiratory health",20
+Male,41,"Consultation for arthritis",25
+Female,38,"Routine health check",30
+Male,50,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,33,"Follow-up for surgery",30
+Female,41,"Routine wellness visit",20
+Male,46,"Health maintenance follow-up",25
+Female,50,"Consultation for respiratory health",30
+Male,34,"Consultation for arthritis",20
+Female,33,"Routine health check",25
+Male,60,"Consultation for back pain",30
+Female,41,"Follow-up for surgery",20
+Male,35,"Routine wellness visit",25
+Female,31,"Health maintenance follow-up",30
+Male,46,"Consultation for respiratory health",20
+Female,50,"Consultation for arthritis",25
+Male,33,"Routine health check",30
+Female,38,"Consultation for back pain",20
+Male,45,"Consultation for chronic condition",25
+Female,31,"Routine wellness visit",30
+Male,41,"Health maintenance follow-up",20
+Female,50,"Consultation for respiratory health",25
+Male,31,"Consultation for arthritis",30
+Female,33,"Routine health check",20
+Male,50,"Consultation for back pain",25
+Female,31,"Follow-up for surgery",30
+Male,46,"Routine wellness visit",20
+Female,41,"Health maintenance follow-up",25
+Male,31,"Consultation for respiratory health",30
+Female,50,"Consultation for arthritis",20
+Male,34,"Routine health check",25
+Female,38,"Consultation for back pain",30
+Male,31,"Consultation for chronic condition",20
+Female,45,"Routine wellness visit",25
+Male,35,"Health maintenance follow-up",30
+Female,31,"Consultation for respiratory health",20
+Male,41,"Consultation for arthritis",25
+Female,31,"Routine health check",30
+Male,46,"Consultation for back pain",20
+Female,50,"Consultation for chronic condition",25
+Male,34,"Follow-up for surgery",30
+Female,41,"Routine wellness visit",20
+Male,31,"Health maintenance follow-up",25
+Female,35,"Consultation for respiratory health",30
+Male,50,"Consultation for arthritis",20
+Female,38,"Routine health check",25
+Male,31,"Consultation for back pain",30
+Female,45,"Consultation for chronic condition",20
+Male,60,"Routine wellness visit",25
+Female,46,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,50,"Consultation for arthritis",25
+Male,33,"Routine health check",30
+Female,34,"Consultation for back pain",20
+Male,41,"Follow-up for surgery",25
+Female,31,"Routine wellness visit",30
+Male,31,"Health maintenance follow-up",20
+Female,50,"Consultation for respiratory health",25
+Male,38,"Consultation for arthritis",30
+Female,41,"Routine health check",20
+Male,31,"Consultation for back pain",25
+Female,33,"Consultation for chronic condition",30
+Male,50,"Routine wellness visit",20
+Female,35,"Health maintenance follow-up",25
+Male,34,"Consultation for respiratory health",30
+Female,31,"Consultation for arthritis",20
+Male,45,"Routine health check",25
+Female,50,"Consultation for back pain",30
+Male,41,"Follow-up for surgery",20
+Female,31,"Routine wellness visit",25
+Male,60,"Health maintenance follow-up",30
+Female,38,"Consultation for respiratory health",20
+Male,33,"Consultation for arthritis",25
+Female,50,"Routine health check",30
+Male,46,"Consultation for back pain",20
+Female,31,"Consultation for chronic condition",25
+Male,45,"Routine wellness visit",30
+Female,41,"Health maintenance follow-up",20
+Male,31,"Consultation for respiratory health",25
+Female,34,"Consultation for arthritis",30
+Male,50,"Routine health check",20
+Female,35,"Consultation for back pain",25
+Male,31,"Follow-up for surgery",30
+Female,33,"Routine wellness visit",20
+Male,50,"Health maintenance follow-up",25
+Female,38,"Consultation for respiratory health",30
+Male,31,"Consultation for arthritis",20
+Female,46,"Routine health check",25
+Male,41,"Consultation for back pain",30
+Female,31,"Consultation for chronic condition",20
+Male,34,"Routine wellness visit",25
+Female,60,"Health maintenance follow-up",30
+Male,50,"Consultation for respiratory health",20
+Female,45,"Consultation for arthritis",25
+Male,38,"Routine health check",30
+Female,31,"Follow-up for surgery",20
+Male,41,"Routine wellness visit",25
+Female,33,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,50,"Consultation for arthritis",25
+Male,35,"Routine health check",30
+Female,46,"Consultation for back pain",20
+Male,31,"Consultation for chronic condition",25
+Female,38,"Routine wellness visit",30
+Male,50,"Health maintenance follow-up",20
+Female,34,"Consultation for respiratory health",25
+Male,41,"Consultation for arthritis",30
+Female,31,"Routine health check",20
+Male,33,"Consultation for back pain",25
+Female,31,"Follow-up for surgery",30
+Male,50,"Routine wellness visit",20
+Female,46,"Health maintenance follow-up",25
+Male,35,"Consultation for respiratory health",30
+Female,38,"Consultation for arthritis",20
+Male,31,"Routine health check",25
+Female,41,"Consultation for back pain",30
+Male,50,"Consultation for chronic condition",20
+Female,45,"Routine wellness visit",25
+Male,31,"Health maintenance follow-up",30
+Female,50,"Consultation for respiratory health",20
+Male,33,"Consultation for arthritis",25
+Female,34,"Routine health check",30
+Male,31,"Consultation for back pain",20
+Female,60,"Consultation for chronic condition",25
+Male,41,"Routine wellness visit",30
+Female,31,"Health maintenance follow-up",20
+Male,35,"Consultation for respiratory health",25
+Female,31,"Consultation for arthritis",30
+Male,46,"Routine health check",20
+Female,31,"Follow-up for surgery",25
+Male,38,"Routine wellness visit",30
+Female,50,"Health maintenance follow-up",20
+Male,34,"Consultation for respiratory health",25
+Female,45,"Consultation for arthritis",30
+Male,33,"Routine health check",20
+Female,50,"Consultation for back pain",25
+Male,38,"Consultation for chronic condition",30
+Female,41,"Routine wellness visit",20
+Male,31,"Health maintenance follow-up",25
+Female,50,"Consultation for respiratory health",30
+Male,34,"Consultation for arthritis",20
+Female,33,"Routine health check",25
+Male,41,"Follow-up for surgery",30
+Female,50,"Routine wellness visit",20
+Male,46,"Health maintenance follow-up",25
+Female,31,"Consultation for respiratory health",30
+Male,38,"Consultation for arthritis",20
+Female,31,"Routine health check",25
+Male,33,"Consultation for back pain",30
+Female,50,"Consultation for chronic condition",20
+Male,34,"Routine wellness visit",25
+Female,41,"Health maintenance follow-up",30
+Male,31,"Consultation for respiratory health",20
+Female,45,"Consultation for arthritis",25
+Male,60,"Routine health check",30
+Female,31,"Follow-up for surgery",20
+Male,50,"Routine wellness visit",25
+Female,35,"Health maintenance follow-up",30
+Male,38,"Consultation for respiratory health",20
+Female,41,"Consultation for arthritis",25
+Male,33,"Routine health check",30

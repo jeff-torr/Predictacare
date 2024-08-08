@@ -13,7 +13,7 @@ Reduced Waiting Room Times: With better scheduling practices, PredictaCare aims 
 Multifaceted Benefits: PredictaCare benefits both patients and care providers. Patients can compare appointment lengths and waiting times at different locations to make informed decisions about where to seek medical care.
 Technologies Used
 Machine Learning: PredictaCare utilizes machine learning techniques to analyze patient descriptions and predict appointment durations.
-SkLearn is used for building and training machine learning models.
+SkLEarn is used for building and training machine learning models.
 Python: The backend logic of PredictaCare is implemented in Python, leveraging its extensive libraries for machine learning and data processing.
 Node.js and Docker: The project may involve deployment using Node.js and Docker for containerization.
 How to Use
